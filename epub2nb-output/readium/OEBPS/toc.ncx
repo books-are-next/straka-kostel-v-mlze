@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="8f9c38d6-6b13-4e76-9051-c2f8418b932b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kostel v mlze</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Kostel v mlze</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Listopad 1987</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>(Seškrábaný obraz)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>(Ubitá slova)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>V prohlubni času</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>(Pach dávné mlhy)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Březen 1988</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>(A pak jsem také bojoval s časem)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_012.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>(Bolest, která nedrží pohromadě)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_013.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Jisté jámy a průseky</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_014.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>(Tlak bolavých čar)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_015.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Podzim 1988</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_016.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>(Postavy zůstávají opomenuté v ulicích)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_017.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>(Zůstává jen marnivý nesoulad)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_018.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>(Pomalu posouvám prsty po desce stolu)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_019.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>(Šedá je barva pozdějších let)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_020.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>(Bál jsem se pomalu se zavírajících dveří)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_021.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>(Nechci to)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_022.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>(Černé pokoje někde tam)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_023.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>(Najednou být někde mimo posedlost)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_024.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Tlak černých čar</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_025.html"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>(Prsty před tvář)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_026.html"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>(Černá košile, tma, unylá hudba)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_027.html"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>(Atmosféra nočního bytu)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_028.html"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>(Žiji v napětí)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_029.html"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>(Čas této hodiny je úmorný)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_030.html"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>(Vychází ze mne jen)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_031.html"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Chybění dnů, měsíců</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_032.html"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Září 1991</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_033.html"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Listopad 1991</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_034.html"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Mléčná šeď</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_035.html"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>(Stále ve mně zůstává)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_036.html"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Vše zůstává v rovině mlčení)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_037.html"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>(Už není možné)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_038.html"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>(Jako bych neměl tvář)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_039.html"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>(Pak už stačilo jen sklonit hlavu)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_040.html"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>(Vždycky je to jen)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_041.html"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>MALÁTNÉ POKOJE</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_042.html"/>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Malátné pokoje I</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_043.html"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Malátné pokoje II</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_044.html"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Malátné pokoje III</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_045.html"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>(Červený šrám světla)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_046.html"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>(Jsem tam, jdu ve stejných stopách)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_047.html"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>(Už nepotřebuji hodiny navíc)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_048.html"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>On, který by mohl být mnou</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_049.html"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Zappe</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_050.html"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>(Nepropustná mlha, která mne obestírá)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_051.html"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>(Bílá propast, která ukrývá týdny)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_052.html"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>(Celá léta jsem procházel tím městem)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_053.html"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>(Jako bych rekonstruoval vlastní život)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_054.html"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>(Dopátráváš se paměti)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_055.html"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>(Ticho, které má zas jen vyčítavou tvář)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_056.html"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>(Přebývám v jakýchsi „kasárnách“)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_057.html"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Dva večery v horečnatém městě</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_058.html"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>(Možná nakonec to jediné co zbývá, je psát)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_059.html"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>(Jak vrátit čas)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_060.html"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Přidávání dnů</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_061.html"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Rmutné děje)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_062.html"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>(Procházíš dvěma prázdnými pokoji)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_063.html"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>(Dny jsou jako cáry roztrhané větrem)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_064.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>BÍLÁ MLHA</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_065.html"/>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>(Mluvím o návratech)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_066.html"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>(A pak sedět v prázdném bytě)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_067.html"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>(Vracíš se do toho města)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_068.html"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>(A pak řekneš šest let)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_069.html"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>(A pak se, ale o několik hodin později)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_070.html"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Vlastní pokoj</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_071.html"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>(Jsi v pokoji oblíčen slovy)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_072.html"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>(Noc ukrajuje nudu)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_073.html"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>(Jen jisté tónování šedi)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_074.html"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>Nulový bod</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_075.html"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>(Tvé horké studené tělo)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_076.html"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>Před Tvým probuzením</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_077.html"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>(Projít subjektivní krajinou)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_078.html"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>(Všechno jízlivé)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_079.html"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>(Ten divný prstoklad)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_080.html"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>(To ticho už nám asi zůstane)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_081.html"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>(Rozchod v nehybném městě)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_082.html"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>(Zasahuje mne pláč)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_083.html"/>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>(Postupně se vzdaluji)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_084.html"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>(Zatarasím si cestu ke slovům)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_085.html"/>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>(To, co tě zraňuje)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_086.html"/>
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>(Přibližoval jsem se)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_087.html"/>
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>Náhle I</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_088.html"/>
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>Záznam, ne jen zanikající obraz</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_089.html"/>
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>Náhle II</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_090.html"/>
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>(Vlaky, nyní rozumíme míjení)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_091.html"/>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>Teď strnulost:</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_092.html"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>(Upřený pohled teď značí)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_093.html"/>
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>(Bolestné setrvávání věcí)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_094.html"/>
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>(Čekání na detail)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_095.html"/>
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>(Nikdy už ze sebe neshodíš)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_096.html"/>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>(To mimořádné nanášení „barev“)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_097.html"/>
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>(Jemné povrchy připomínající hlazení)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_098.html"/>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>(Díváš se jakoby zezdola)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_099.html"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>(Vědomě lžeš)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_100.html"/>
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>(Udaná adresa)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_101.html"/>
+      </navPoint>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>Šero prosincového odpoledne</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_102.html"/>
+      </navPoint>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>(Lidé se dotýkají špinavých parapetů)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_103.html"/>
+      </navPoint>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>(Jen třívteřinový výsek)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_104.html"/>
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>(Zatuchlý příval slov)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_105.html"/>
+      </navPoint>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>(Zkroucené prsty, do toho promluva)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_106.html"/>
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>(Unikám stejnosti)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_107.html"/>
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>(Pojmenovat jistou zlobu)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_108.html"/>
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>(Domovy, které jsou roztříštěné)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_109.html"/>
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>(Hlas, který po několik týdnů)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_110.html"/>
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>(Ještě tam je)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_111.html"/>
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>(Jako by prvek neustálého zamazávání)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_112.html"/>
+      </navPoint>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>(Hlava zvrácená dozadu)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_113.html"/>
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>(To ticho pak už nezná)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_114.html"/>
+      </navPoint>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>(Všechno je tak vratké)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_115.html"/>
+      </navPoint>
+      <navPoint id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>(Tunel, pak podivné zákoutí)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_116.html"/>
+      </navPoint>
+      <navPoint id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>(Odsouzen k nehybnosti)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_117.html"/>
+      </navPoint>
+      <navPoint id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>Listopad 2007</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_118.html"/>
+      </navPoint>
+      <navPoint id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>(Podobné úklony hlavou)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_119.html"/>
+      </navPoint>
+      <navPoint id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>(Nakonec to budou jen bílá místa)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_120.html"/>
+      </navPoint>
+      <navPoint id="navPoint-117" playOrder="117">
+        <navLabel>
+          <text>(Šedá plocha náměstí se pojí s deštěm)</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_121.html"/>
+      </navPoint>
+      <navPoint id="navPoint-118" playOrder="118">
+        <navLabel>
+          <text>Bílá mlha</text>
+        </navLabel>
+        <content src="Text/kostel_v_mlze_122.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-119" playOrder="119">
+      <navLabel>
+        <text>Dávný imperativ (Doslov Jana Štolby)</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_123.html"/>
+    </navPoint>
+    <navPoint id="navPoint-120" playOrder="120">
+      <navLabel>
+        <text>O autorovi</text>
+      </navLabel>
+      <content src="Text/kostel_v_mlze_124.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

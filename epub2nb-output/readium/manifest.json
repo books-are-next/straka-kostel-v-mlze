@@ -1,0 +1,1031 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Kostel v mlze",
+    "identifier": "8f9c38d6-6b13-4e76-9051-c2f8418b932b",
+    "author": "Josef Straka",
+    "publisher": [
+      "Městská knihovna v Praze",
+      "Cherm"
+    ],
+    "language": "cs",
+    "modified": "2017-05-09T00:00:00.000Z",
+    "published": "2017-05-02T00:00:00.000Z",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_028.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_029.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_030.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_031.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_032.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_033.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_034.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_035.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_036.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_037.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_038.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_039.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_040.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_041.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_042.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_043.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_044.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_045.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_046.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_047.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_048.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_049.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_050.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_051.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_052.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_053.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_054.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_055.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_056.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_057.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_058.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_059.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_060.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_061.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_062.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_063.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_064.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_065.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_066.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_067.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_068.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_069.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_070.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_071.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_072.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_073.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_074.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_075.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_076.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_077.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_078.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_079.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_080.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_081.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_082.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_083.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_084.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_085.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_086.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_087.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_088.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_089.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_090.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_091.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_092.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_093.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_094.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_095.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_096.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_097.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_098.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_099.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_100.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_101.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_102.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_103.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_104.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_105.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_106.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_107.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_108.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_109.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_110.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_111.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_112.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_113.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_114.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_115.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_116.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_117.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_118.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_119.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_120.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_121.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_122.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_123.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_124.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kostel_v_mlze_125.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/reklama_cherm.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/foto_autora.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Kostel v mlze",
+      "href": "OEBPS/Text/kostel_v_mlze_005.html"
+    },
+    {
+      "title": "Listopad 1987",
+      "href": "OEBPS/Text/kostel_v_mlze_006.html"
+    },
+    {
+      "title": "(Seškrábaný obraz)",
+      "href": "OEBPS/Text/kostel_v_mlze_007.html"
+    },
+    {
+      "title": "(Ubitá slova)",
+      "href": "OEBPS/Text/kostel_v_mlze_008.html"
+    },
+    {
+      "title": "V prohlubni času",
+      "href": "OEBPS/Text/kostel_v_mlze_009.html"
+    },
+    {
+      "title": "(Pach dávné mlhy)",
+      "href": "OEBPS/Text/kostel_v_mlze_010.html"
+    },
+    {
+      "title": "Březen 1988",
+      "href": "OEBPS/Text/kostel_v_mlze_011.html"
+    },
+    {
+      "title": "(A pak jsem také bojoval s časem)",
+      "href": "OEBPS/Text/kostel_v_mlze_012.html"
+    },
+    {
+      "title": "(Bolest, která nedrží pohromadě)",
+      "href": "OEBPS/Text/kostel_v_mlze_013.html"
+    },
+    {
+      "title": "Jisté jámy a průseky",
+      "href": "OEBPS/Text/kostel_v_mlze_014.html"
+    },
+    {
+      "title": "(Tlak bolavých čar)",
+      "href": "OEBPS/Text/kostel_v_mlze_015.html"
+    },
+    {
+      "title": "Podzim 1988",
+      "href": "OEBPS/Text/kostel_v_mlze_016.html"
+    },
+    {
+      "title": "(Postavy zůstávají opomenuté v ulicích)",
+      "href": "OEBPS/Text/kostel_v_mlze_017.html"
+    },
+    {
+      "title": "(Zůstává jen marnivý nesoulad)",
+      "href": "OEBPS/Text/kostel_v_mlze_018.html"
+    },
+    {
+      "title": "(Pomalu posouvám prsty po desce stolu)",
+      "href": "OEBPS/Text/kostel_v_mlze_019.html"
+    },
+    {
+      "title": "(Šedá je barva pozdějších let)",
+      "href": "OEBPS/Text/kostel_v_mlze_020.html"
+    },
+    {
+      "title": "(Bál jsem se pomalu se zavírajících dveří)",
+      "href": "OEBPS/Text/kostel_v_mlze_021.html"
+    },
+    {
+      "title": "(Nechci to)",
+      "href": "OEBPS/Text/kostel_v_mlze_022.html"
+    },
+    {
+      "title": "(Černé pokoje někde tam)",
+      "href": "OEBPS/Text/kostel_v_mlze_023.html"
+    },
+    {
+      "title": "(Najednou být někde mimo posedlost)",
+      "href": "OEBPS/Text/kostel_v_mlze_024.html"
+    },
+    {
+      "title": "Tlak černých čar",
+      "href": "OEBPS/Text/kostel_v_mlze_025.html"
+    },
+    {
+      "title": "(Prsty před tvář)",
+      "href": "OEBPS/Text/kostel_v_mlze_026.html"
+    },
+    {
+      "title": "(Černá košile, tma, unylá hudba)",
+      "href": "OEBPS/Text/kostel_v_mlze_027.html"
+    },
+    {
+      "title": "(Atmosféra nočního bytu)",
+      "href": "OEBPS/Text/kostel_v_mlze_028.html"
+    },
+    {
+      "title": "(Žiji v napětí)",
+      "href": "OEBPS/Text/kostel_v_mlze_029.html"
+    },
+    {
+      "title": "(Čas této hodiny je úmorný)",
+      "href": "OEBPS/Text/kostel_v_mlze_030.html"
+    },
+    {
+      "title": "(Vychází ze mne jen)",
+      "href": "OEBPS/Text/kostel_v_mlze_031.html"
+    },
+    {
+      "title": "Chybění dnů, měsíců",
+      "href": "OEBPS/Text/kostel_v_mlze_032.html"
+    },
+    {
+      "title": "Září 1991",
+      "href": "OEBPS/Text/kostel_v_mlze_033.html"
+    },
+    {
+      "title": "Listopad 1991",
+      "href": "OEBPS/Text/kostel_v_mlze_034.html"
+    },
+    {
+      "title": "Mléčná šeď",
+      "href": "OEBPS/Text/kostel_v_mlze_035.html"
+    },
+    {
+      "title": "(Stále ve mně zůstává)",
+      "href": "OEBPS/Text/kostel_v_mlze_036.html"
+    },
+    {
+      "title": "Vše zůstává v rovině mlčení)",
+      "href": "OEBPS/Text/kostel_v_mlze_037.html"
+    },
+    {
+      "title": "(Už není možné)",
+      "href": "OEBPS/Text/kostel_v_mlze_038.html"
+    },
+    {
+      "title": "(Jako bych neměl tvář)",
+      "href": "OEBPS/Text/kostel_v_mlze_039.html"
+    },
+    {
+      "title": "(Pak už stačilo jen sklonit hlavu)",
+      "href": "OEBPS/Text/kostel_v_mlze_040.html"
+    },
+    {
+      "title": "(Vždycky je to jen)",
+      "href": "OEBPS/Text/kostel_v_mlze_041.html"
+    },
+    {
+      "title": "MALÁTNÉ POKOJE",
+      "children": [
+        {
+          "title": "Malátné pokoje I",
+          "href": "OEBPS/Text/kostel_v_mlze_043.html"
+        },
+        {
+          "title": "Malátné pokoje II",
+          "href": "OEBPS/Text/kostel_v_mlze_044.html"
+        },
+        {
+          "title": "Malátné pokoje III",
+          "href": "OEBPS/Text/kostel_v_mlze_045.html"
+        },
+        {
+          "title": "(Červený šrám světla)",
+          "href": "OEBPS/Text/kostel_v_mlze_046.html"
+        },
+        {
+          "title": "(Jsem tam, jdu ve stejných stopách)",
+          "href": "OEBPS/Text/kostel_v_mlze_047.html"
+        },
+        {
+          "title": "(Už nepotřebuji hodiny navíc)",
+          "href": "OEBPS/Text/kostel_v_mlze_048.html"
+        },
+        {
+          "title": "On, který by mohl být mnou",
+          "href": "OEBPS/Text/kostel_v_mlze_049.html"
+        },
+        {
+          "title": "Zappe",
+          "href": "OEBPS/Text/kostel_v_mlze_050.html"
+        },
+        {
+          "title": "(Nepropustná mlha, která mne obestírá)",
+          "href": "OEBPS/Text/kostel_v_mlze_051.html"
+        },
+        {
+          "title": "(Bílá propast, která ukrývá týdny)",
+          "href": "OEBPS/Text/kostel_v_mlze_052.html"
+        },
+        {
+          "title": "(Celá léta jsem procházel tím městem)",
+          "href": "OEBPS/Text/kostel_v_mlze_053.html"
+        },
+        {
+          "title": "(Jako bych rekonstruoval vlastní život)",
+          "href": "OEBPS/Text/kostel_v_mlze_054.html"
+        },
+        {
+          "title": "(Dopátráváš se paměti)",
+          "href": "OEBPS/Text/kostel_v_mlze_055.html"
+        },
+        {
+          "title": "(Ticho, které má zas jen vyčítavou tvář)",
+          "href": "OEBPS/Text/kostel_v_mlze_056.html"
+        },
+        {
+          "title": "(Přebývám v jakýchsi „kasárnách“)",
+          "href": "OEBPS/Text/kostel_v_mlze_057.html"
+        },
+        {
+          "title": "Dva večery v horečnatém městě",
+          "href": "OEBPS/Text/kostel_v_mlze_058.html"
+        },
+        {
+          "title": "(Možná nakonec to jediné co zbývá, je psát)",
+          "href": "OEBPS/Text/kostel_v_mlze_059.html"
+        },
+        {
+          "title": "(Jak vrátit čas)",
+          "href": "OEBPS/Text/kostel_v_mlze_060.html"
+        },
+        {
+          "title": "Přidávání dnů",
+          "href": "OEBPS/Text/kostel_v_mlze_061.html"
+        },
+        {
+          "title": "Rmutné děje)",
+          "href": "OEBPS/Text/kostel_v_mlze_062.html"
+        },
+        {
+          "title": "(Procházíš dvěma prázdnými pokoji)",
+          "href": "OEBPS/Text/kostel_v_mlze_063.html"
+        },
+        {
+          "title": "(Dny jsou jako cáry roztrhané větrem)",
+          "href": "OEBPS/Text/kostel_v_mlze_064.html"
+        }
+      ],
+      "href": "OEBPS/Text/kostel_v_mlze_042.html"
+    },
+    {
+      "title": "BÍLÁ MLHA",
+      "children": [
+        {
+          "title": "(Mluvím o návratech)",
+          "href": "OEBPS/Text/kostel_v_mlze_066.html"
+        },
+        {
+          "title": "(A pak sedět v prázdném bytě)",
+          "href": "OEBPS/Text/kostel_v_mlze_067.html"
+        },
+        {
+          "title": "(Vracíš se do toho města)",
+          "href": "OEBPS/Text/kostel_v_mlze_068.html"
+        },
+        {
+          "title": "(A pak řekneš šest let)",
+          "href": "OEBPS/Text/kostel_v_mlze_069.html"
+        },
+        {
+          "title": "(A pak se, ale o několik hodin později)",
+          "href": "OEBPS/Text/kostel_v_mlze_070.html"
+        },
+        {
+          "title": "Vlastní pokoj",
+          "href": "OEBPS/Text/kostel_v_mlze_071.html"
+        },
+        {
+          "title": "(Jsi v pokoji oblíčen slovy)",
+          "href": "OEBPS/Text/kostel_v_mlze_072.html"
+        },
+        {
+          "title": "(Noc ukrajuje nudu)",
+          "href": "OEBPS/Text/kostel_v_mlze_073.html"
+        },
+        {
+          "title": "(Jen jisté tónování šedi)",
+          "href": "OEBPS/Text/kostel_v_mlze_074.html"
+        },
+        {
+          "title": "Nulový bod",
+          "href": "OEBPS/Text/kostel_v_mlze_075.html"
+        },
+        {
+          "title": "(Tvé horké studené tělo)",
+          "href": "OEBPS/Text/kostel_v_mlze_076.html"
+        },
+        {
+          "title": "Před Tvým probuzením",
+          "href": "OEBPS/Text/kostel_v_mlze_077.html"
+        },
+        {
+          "title": "(Projít subjektivní krajinou)",
+          "href": "OEBPS/Text/kostel_v_mlze_078.html"
+        },
+        {
+          "title": "(Všechno jízlivé)",
+          "href": "OEBPS/Text/kostel_v_mlze_079.html"
+        },
+        {
+          "title": "(Ten divný prstoklad)",
+          "href": "OEBPS/Text/kostel_v_mlze_080.html"
+        },
+        {
+          "title": "(To ticho už nám asi zůstane)",
+          "href": "OEBPS/Text/kostel_v_mlze_081.html"
+        },
+        {
+          "title": "(Rozchod v nehybném městě)",
+          "href": "OEBPS/Text/kostel_v_mlze_082.html"
+        },
+        {
+          "title": "(Zasahuje mne pláč)",
+          "href": "OEBPS/Text/kostel_v_mlze_083.html"
+        },
+        {
+          "title": "(Postupně se vzdaluji)",
+          "href": "OEBPS/Text/kostel_v_mlze_084.html"
+        },
+        {
+          "title": "(Zatarasím si cestu ke slovům)",
+          "href": "OEBPS/Text/kostel_v_mlze_085.html"
+        },
+        {
+          "title": "(To, co tě zraňuje)",
+          "href": "OEBPS/Text/kostel_v_mlze_086.html"
+        },
+        {
+          "title": "(Přibližoval jsem se)",
+          "href": "OEBPS/Text/kostel_v_mlze_087.html"
+        },
+        {
+          "title": "Náhle I",
+          "href": "OEBPS/Text/kostel_v_mlze_088.html"
+        },
+        {
+          "title": "Záznam, ne jen zanikající obraz",
+          "href": "OEBPS/Text/kostel_v_mlze_089.html"
+        },
+        {
+          "title": "Náhle II",
+          "href": "OEBPS/Text/kostel_v_mlze_090.html"
+        },
+        {
+          "title": "(Vlaky, nyní rozumíme míjení)",
+          "href": "OEBPS/Text/kostel_v_mlze_091.html"
+        },
+        {
+          "title": "Teď strnulost:",
+          "href": "OEBPS/Text/kostel_v_mlze_092.html"
+        },
+        {
+          "title": "(Upřený pohled teď značí)",
+          "href": "OEBPS/Text/kostel_v_mlze_093.html"
+        },
+        {
+          "title": "(Bolestné setrvávání věcí)",
+          "href": "OEBPS/Text/kostel_v_mlze_094.html"
+        },
+        {
+          "title": "(Čekání na detail)",
+          "href": "OEBPS/Text/kostel_v_mlze_095.html"
+        },
+        {
+          "title": "(Nikdy už ze sebe neshodíš)",
+          "href": "OEBPS/Text/kostel_v_mlze_096.html"
+        },
+        {
+          "title": "(To mimořádné nanášení „barev“)",
+          "href": "OEBPS/Text/kostel_v_mlze_097.html"
+        },
+        {
+          "title": "(Jemné povrchy připomínající hlazení)",
+          "href": "OEBPS/Text/kostel_v_mlze_098.html"
+        },
+        {
+          "title": "(Díváš se jakoby zezdola)",
+          "href": "OEBPS/Text/kostel_v_mlze_099.html"
+        },
+        {
+          "title": "(Vědomě lžeš)",
+          "href": "OEBPS/Text/kostel_v_mlze_100.html"
+        },
+        {
+          "title": "(Udaná adresa)",
+          "href": "OEBPS/Text/kostel_v_mlze_101.html"
+        },
+        {
+          "title": "Šero prosincového odpoledne",
+          "href": "OEBPS/Text/kostel_v_mlze_102.html"
+        },
+        {
+          "title": "(Lidé se dotýkají špinavých parapetů)",
+          "href": "OEBPS/Text/kostel_v_mlze_103.html"
+        },
+        {
+          "title": "(Jen třívteřinový výsek)",
+          "href": "OEBPS/Text/kostel_v_mlze_104.html"
+        },
+        {
+          "title": "(Zatuchlý příval slov)",
+          "href": "OEBPS/Text/kostel_v_mlze_105.html"
+        },
+        {
+          "title": "(Zkroucené prsty, do toho promluva)",
+          "href": "OEBPS/Text/kostel_v_mlze_106.html"
+        },
+        {
+          "title": "(Unikám stejnosti)",
+          "href": "OEBPS/Text/kostel_v_mlze_107.html"
+        },
+        {
+          "title": "(Pojmenovat jistou zlobu)",
+          "href": "OEBPS/Text/kostel_v_mlze_108.html"
+        },
+        {
+          "title": "(Domovy, které jsou roztříštěné)",
+          "href": "OEBPS/Text/kostel_v_mlze_109.html"
+        },
+        {
+          "title": "(Hlas, který po několik týdnů)",
+          "href": "OEBPS/Text/kostel_v_mlze_110.html"
+        },
+        {
+          "title": "(Ještě tam je)",
+          "href": "OEBPS/Text/kostel_v_mlze_111.html"
+        },
+        {
+          "title": "(Jako by prvek neustálého zamazávání)",
+          "href": "OEBPS/Text/kostel_v_mlze_112.html"
+        },
+        {
+          "title": "(Hlava zvrácená dozadu)",
+          "href": "OEBPS/Text/kostel_v_mlze_113.html"
+        },
+        {
+          "title": "(To ticho pak už nezná)",
+          "href": "OEBPS/Text/kostel_v_mlze_114.html"
+        },
+        {
+          "title": "(Všechno je tak vratké)",
+          "href": "OEBPS/Text/kostel_v_mlze_115.html"
+        },
+        {
+          "title": "(Tunel, pak podivné zákoutí)",
+          "href": "OEBPS/Text/kostel_v_mlze_116.html"
+        },
+        {
+          "title": "(Odsouzen k nehybnosti)",
+          "href": "OEBPS/Text/kostel_v_mlze_117.html"
+        },
+        {
+          "title": "Listopad 2007",
+          "href": "OEBPS/Text/kostel_v_mlze_118.html"
+        },
+        {
+          "title": "(Podobné úklony hlavou)",
+          "href": "OEBPS/Text/kostel_v_mlze_119.html"
+        },
+        {
+          "title": "(Nakonec to budou jen bílá místa)",
+          "href": "OEBPS/Text/kostel_v_mlze_120.html"
+        },
+        {
+          "title": "(Šedá plocha náměstí se pojí s deštěm)",
+          "href": "OEBPS/Text/kostel_v_mlze_121.html"
+        },
+        {
+          "title": "Bílá mlha",
+          "href": "OEBPS/Text/kostel_v_mlze_122.html"
+        }
+      ],
+      "href": "OEBPS/Text/kostel_v_mlze_065.html"
+    },
+    {
+      "title": "Dávný imperativ (Doslov Jana Štolby)",
+      "href": "OEBPS/Text/kostel_v_mlze_123.html"
+    },
+    {
+      "title": "O autorovi",
+      "href": "OEBPS/Text/kostel_v_mlze_124.html"
+    }
+  ]
+}
