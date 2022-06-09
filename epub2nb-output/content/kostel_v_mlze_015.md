@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Tlak bolavých čar  
 vyplňuje duté mezery  

@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Tunel, pak podivné zákoutí  
 zachytit stopu hlasu, dávno nepřítomného  

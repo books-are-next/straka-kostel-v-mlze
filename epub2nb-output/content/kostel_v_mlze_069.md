@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 A pak řekneš šest let  
 ale je to mizení  

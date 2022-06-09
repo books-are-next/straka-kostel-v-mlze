@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Jen jisté tónování šedi  
 ostatní barvy už léta – chybějí  

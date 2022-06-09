@@ -1,8 +1,7 @@
 ---
+title: Přidávání dnů
 contentType: prose
 ---
-
-## Přidávání dnů
 
 Vyprošuji si nenápadný den. Den, kdy prší, kdy listy poletují sem a tam. Přeji si podzimní mlhavé dny, aby už přišly, a ztratit se v městských uličkách a ne se ztrácet v utajených a nekonečných chodbách tohoto podivného hotelu, který je mi stále v patách. Probudím se ze snů a vidím směrovky do budovy C – Konferenční sál, těsně před nosem a pak vlevo a za roh, a pak se to zas všechno ztrácí.
 

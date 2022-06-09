@@ -1,8 +1,7 @@
 ---
+title: Bílá mlha
 contentType: prose
 ---
-
-## Bílá mlha
 
 Cihlový kostel.  
 Sepjaté ruce.  

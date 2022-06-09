@@ -1,8 +1,7 @@
 ---
+title: Dva večery v horečnatém městě
 contentType: prose
 ---
-
-## Dva večery v horečnatém městě
 
 Už si to nedokážu tak přesně vybavit  
 tlumené přítmí: tlumený hlas  

@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Jen třívteřinový výsek  
 spoje podzemních drah v jiných intervalech  

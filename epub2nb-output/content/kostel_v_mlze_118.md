@@ -1,8 +1,7 @@
 ---
+title: Listopad 2007
 contentType: prose
 ---
-
-## Listopad 2007
 
 Pochopit mráz  
 rty, jež se nepohybují  

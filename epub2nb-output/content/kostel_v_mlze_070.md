@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 A pak se, ale o několik hodin později, vidím  
      na druhém konci vagónu metra absolutně bez výrazu  

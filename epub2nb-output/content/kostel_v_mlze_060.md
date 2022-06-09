@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Jak vrátit čas uplynulých tří měsíců, jak je kamsi vtěsnat, vmezeřit, nebo naopak vynechat a dívat se na ně s nezúčastněným odstupem, jen třeba nahlédnout, jen tu a tam se přiblížit,  cosi korigovat, vylepšit nebo se jen slepě dívat, být strnulý.
 

@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Mluvím o návratech  
 ale ty jsou jen v představách tohoto bytu  

@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Podobné úklony hlavou „ano“, „prosím“, „tak“  
 překládání prstů přes sebe znamená čekání  

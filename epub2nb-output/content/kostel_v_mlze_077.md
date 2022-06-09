@@ -1,8 +1,7 @@
 ---
+title: Před Tvým probuzením
 contentType: prose
 ---
-
-## Před Tvým probuzením
 
 Zase jen jakési nazelenalé světlo  
 ploché a nevýrazné  

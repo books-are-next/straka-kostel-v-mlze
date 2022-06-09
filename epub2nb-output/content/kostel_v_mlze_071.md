@@ -1,8 +1,7 @@
 ---
+title: Vlastní pokoj
 contentType: prose
 ---
-
-## Vlastní pokoj
 
 _Ten sžírající pohled do černé tmy  
 postupně znehybní prsty na dece  

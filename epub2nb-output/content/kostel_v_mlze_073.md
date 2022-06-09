@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 _Noc ukrajuje nudu, pozdní lítost  
 zahleděn ve špinavý popelník  

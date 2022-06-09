@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Bolest, která nedrží pohromadě  
 je vlastně stejně roztříštěná jako tento den  

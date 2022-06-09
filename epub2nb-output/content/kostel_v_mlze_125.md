@@ -1,10 +1,11 @@
 ---
+title: ''
 contentType: prose
 ---
 
-Josef Straka
+**Josef Straka**
 
-Kostel v mlze
+**Kostel v mlze**
 
 Edice E-knihovna
 
@@ -16,7 +17,7 @@ Ilustrace na obálce Jana Majcherová
 
 Fotografie autora Petr Špánek
 
-V roce 2017 vydaly Městská knihovna v Praze
+V roce 2017 vydaly **Městská knihovna v Praze**
 
 Mariánské nám. 1, 115 72 Praha 1
 

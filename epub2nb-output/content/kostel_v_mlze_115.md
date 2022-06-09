@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Všechno je tak vratké  
 pochybuji o vlastních krocích  

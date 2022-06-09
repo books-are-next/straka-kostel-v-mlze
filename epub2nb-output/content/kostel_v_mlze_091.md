@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Vlaky, nyní rozumíme míjení  
 nic nepodstatného nám není cizí  

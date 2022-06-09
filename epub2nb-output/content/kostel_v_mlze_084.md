@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Postupně se vzdaluji představě sama sebe  
 ničím pak svůj obraz vytrvalým mlčením  

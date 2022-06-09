@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Vše zůstává v rovině mlčení  
 záškuby, nutkavé pohyby rukou  

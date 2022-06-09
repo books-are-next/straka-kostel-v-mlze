@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Jsi v pokoji obklíčen slovy  
 chladnými zvuky  

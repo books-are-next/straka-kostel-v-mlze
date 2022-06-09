@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Nakonec to budou jen bílá místa  
 avšak s přesným označením: kóty, vyvýšeniny  

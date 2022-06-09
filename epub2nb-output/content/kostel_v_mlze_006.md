@@ -1,8 +1,7 @@
 ---
+title: Listopad 1987
 contentType: prose
 ---
-
-## Listopad 1987
 
 Důsledně se držíme původních představ  
 jsme jimi doslova posedlí  

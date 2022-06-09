@@ -1,8 +1,7 @@
 ---
+title: V prohlubni času
 contentType: prose
 ---
-
-## V prohlubni času
 
 Nepřináležíme si  
 dny, které se nám ztrácejí před očima  

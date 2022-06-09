@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 To ticho pak už nezná jakýkoliv soucit  
 možná jej ani nikdy neznalo  

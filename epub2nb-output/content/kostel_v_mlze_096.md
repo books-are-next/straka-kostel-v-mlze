@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Nikdy už ze sebe neshodíš tu děsivou tvář  
      přejemnělosti  

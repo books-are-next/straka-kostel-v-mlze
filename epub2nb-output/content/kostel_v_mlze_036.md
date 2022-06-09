@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Stále ve mně zůstává to dosti neznatelné chrčení  
      ztichlého pokoje  

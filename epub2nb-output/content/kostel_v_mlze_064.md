@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Dny jsou jako cáry roztrhané větrem  
 po mnoha úderech zbývá jen unavené ticho  

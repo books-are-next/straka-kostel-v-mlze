@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 To, co tě zraňuje  
 jsou vlastní kroky v temných ulicích  

@@ -1,8 +1,7 @@
 ---
+title: Podzim 1988
 contentType: prose
 ---
-
-## Podzim 1988
 
 Šeď „neskutečného“ města  
 které obkličuje každodenní realita jeho obyvatel  

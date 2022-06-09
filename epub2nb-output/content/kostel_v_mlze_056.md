@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Ticho, které má zas jen vyčítavou tvář  
 všechno ostatní mizí s pohledem,  který naposled  

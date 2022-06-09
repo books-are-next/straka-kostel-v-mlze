@@ -1,8 +1,7 @@
 ---
+title: Březen 1988
 contentType: prose
 ---
-
-## Březen 1988
 
 Statické pokoje  
 ustavičně uklízené k návštěvě lidí, kteří ale nikdy  

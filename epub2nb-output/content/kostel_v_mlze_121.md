@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Šedá plocha náměstí se pojí s deštěm  
 s deštěm smíchaným s bílými vločkami  

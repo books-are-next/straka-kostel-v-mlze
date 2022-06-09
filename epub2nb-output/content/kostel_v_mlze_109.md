@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Domovy, které jsou roztříštěny  
 které možná ani nemá cenu takto nazývat  

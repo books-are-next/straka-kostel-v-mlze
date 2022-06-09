@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 _Hlava zvrácená dozadu  
 kdesi na stole plný popelník  

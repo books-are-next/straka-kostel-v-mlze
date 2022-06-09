@@ -1,8 +1,7 @@
 ---
+title: Šero prosincového odpoledne
 contentType: prose
 ---
-
-## Šero prosincového odpoledne
 
 V odlehlých cizostech  
 domov nacházený pohozený na ulicích  

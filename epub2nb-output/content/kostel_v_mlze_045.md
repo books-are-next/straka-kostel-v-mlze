@@ -1,8 +1,7 @@
 ---
+title: Malátné pokoje III
 contentType: prose
 ---
-
-## Malátné pokoje III
 
 Tíha vyjádřená barvami nebo hudbou  
 sotva viditelnými, sotva slyšitelnou  

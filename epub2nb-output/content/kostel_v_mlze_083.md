@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Zasahuje mne pláč hnědi rozvráceného města  
 unylých nepřítomných pohledů  

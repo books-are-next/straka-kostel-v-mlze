@@ -1,8 +1,7 @@
 ---
+title: Jisté jámy a průseky
 contentType: prose
 ---
-
-## Jisté jámy a průseky
 
 Všechny stopy už zamazány  
 vracím se blátivou cestou  

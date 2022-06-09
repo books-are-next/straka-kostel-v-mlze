@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Černá košile, tma, unylá hudba  
 město, o kterém nic nevíš  

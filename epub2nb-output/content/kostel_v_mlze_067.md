@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 A pak sedět v prázdném bytě  
 nehotový obraz  

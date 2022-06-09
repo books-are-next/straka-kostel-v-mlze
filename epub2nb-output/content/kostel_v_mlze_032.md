@@ -1,8 +1,7 @@
 ---
+title: Chybění dnů, měsíců
 contentType: prose
 ---
-
-## Chybění dnů, měsíců
 
 Samota se mi přibližuje, po čase ji začínám už docela  
      dobře rozpoznávat  

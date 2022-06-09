@@ -1,6 +1,6 @@
 ---
+title: MALÁTNÉ     POKOJE
 contentType: prose
 ---
 
-# MALÁTNÉ  
-POKOJE
+
