@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Ten divný prstoklad  
 nám odebírá i poslední zbytky iluzí  

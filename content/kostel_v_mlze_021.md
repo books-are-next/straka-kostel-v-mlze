@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Bál jsem se pomalu se zavírajících dveří  
 připomínalo mi to něco definitivního  

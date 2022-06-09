@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Tvé horké studené tělo zbrocené potem  
 je někde v hloubi tohoto pokoje  

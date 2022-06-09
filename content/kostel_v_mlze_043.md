@@ -1,8 +1,7 @@
 ---
+title: Malátné pokoje I
 contentType: prose
 ---
-
-## Malátné pokoje I
 
 V malátných místnostech  
 s tím svištivým klokotáním v trubkách  

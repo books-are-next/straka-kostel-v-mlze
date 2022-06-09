@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Jako by prvek neustálého zamazávání  
      a přeškrtávání čehosi  

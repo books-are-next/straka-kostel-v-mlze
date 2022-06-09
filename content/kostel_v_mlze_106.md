@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Zkroucené prsty, do toho promluva  
      od vedlejšího stolu  

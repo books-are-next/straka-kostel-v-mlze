@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Čas této hodiny je úmorný  
 vteřinovka na hodinách před tebou se sice  

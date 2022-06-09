@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Najednou být někde mimo posedlost  
 mimo jakoukoliv rozpoznatelnou vášeň  

@@ -1,8 +1,7 @@
 ---
+title: Mléčná šeď
 contentType: prose
 ---
-
-## Mléčná šeď
 
 Černá období  
 místo s plotem a hradbou  

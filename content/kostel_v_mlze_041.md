@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Vždycky je to jen neúčastný cizí hlas  
 zbytečně se snažím v tomto prosincovém  

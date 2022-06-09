@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Dopátráváš se paměti  
 ulic, zabahněné ulice, kdesi v tvém rodném městě  

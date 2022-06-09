@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Bolestné setrvávání věcí  
 když odcházíš odněkud předčasně  

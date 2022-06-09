@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Postavy zůstávají opomenuté v ulicích  
 nic se nehýbe  

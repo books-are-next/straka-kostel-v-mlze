@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Projít subjektivní krajinou  
 nechtěně nebo nečekaně  

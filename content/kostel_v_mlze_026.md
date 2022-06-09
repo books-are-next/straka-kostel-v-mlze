@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Prsty před tvář  
 značí slova jako „nikdy nic nedoříct“  

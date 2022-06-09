@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 A pak jsem také bojoval s časem  
 posunoval vteřinovou ručičku o několik  

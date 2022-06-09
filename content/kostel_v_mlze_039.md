@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 _Jako bych neměl tvář  
 V tuto chvíli mi nic nepřísluší  

@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Všechno jízlivé se pomalu vytrácí  
 zůstávají jen divné hlasy  

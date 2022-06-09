@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Přebývám v jakýchsi „kasárnách“  
 odnikud nikam  

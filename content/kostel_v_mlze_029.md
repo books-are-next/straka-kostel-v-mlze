@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Žiji v napětí  
 těch souběživých a odtahujících se časů  

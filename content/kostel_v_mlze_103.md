@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Lidé se dotýkají špinavých parapetů v mezipatrech  
 unaveně pokládají prsty  

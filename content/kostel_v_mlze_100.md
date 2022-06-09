@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Vědomě lžeš  
 a zamlčuješ místa svých pobytů  

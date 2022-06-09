@@ -1,8 +1,7 @@
 ---
+title: O autorovi
 contentType: prose
 ---
-
-# O autorovi
 
 ![foto_autora](./resources/foto_autora.jpg)
 

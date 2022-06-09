@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Možná nakonec to jediné co zbývá, je psát  
      až do chladných rán  

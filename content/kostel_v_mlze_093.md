@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Upřený pohled teď značí  
 vyrovnávání s věcmi  

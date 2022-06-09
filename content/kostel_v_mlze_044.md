@@ -1,8 +1,7 @@
 ---
+title: Malátné pokoje II
 contentType: prose
 ---
-
-## Malátné pokoje II
 
 Prsty si tak trochu vynucují čekání  
 hladím stůl, beru do rukou různé podložky  

@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Vracíš se do toho města vždy s přemírou slov  
 určených k vyprávění  

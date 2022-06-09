@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 To ticho už nám asi zůstane přisouzeno  
 pohybujeme se v jakýchsi štolách paměti  

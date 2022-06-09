@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Zůstává jen marnivý nesoulad  
 a ztichlé ulice, které se čemukoliv vzpírají  

@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Pomalu posouvám prsty po desce stolu  
 vnímám to naprosto zřetelně a přesto se kamsi  

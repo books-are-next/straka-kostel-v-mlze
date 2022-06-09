@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Šedá barva pozdějších let než tvé dětství  
      se v tobě rozmazává  

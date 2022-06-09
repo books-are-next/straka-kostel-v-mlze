@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Jsem tam, jdu ve stejných stopách, procházím  
      stejnými místy jako kdysi  

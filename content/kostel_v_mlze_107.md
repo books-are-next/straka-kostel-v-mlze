@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Unikám stejnosti  
 nahodile, právě tak jak žiji  

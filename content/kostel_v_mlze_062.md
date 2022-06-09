@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Rmutné děje  
 zastavení v opaku, v jejich nevysledovatelnosti,  

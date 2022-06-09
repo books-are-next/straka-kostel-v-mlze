@@ -1,8 +1,7 @@
 ---
+title: 'Teď strnulost:'
 contentType: prose
 ---
-
-## Teď strnulost:
 
 mátožná přibližnost nepřítomných hlasů  
 zítřek, ještě v něj možná věříme  

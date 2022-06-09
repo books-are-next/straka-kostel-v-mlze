@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Zatarasím si cestu ke slovům  
 jdu pak městem odněkud nikam  

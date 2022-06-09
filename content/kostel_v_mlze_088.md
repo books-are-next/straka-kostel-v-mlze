@@ -1,8 +1,7 @@
 ---
+title: Náhle I
 contentType: prose
 ---
-
-## Náhle I
 
 Netrpělivost času  
 držet ještě v rukou den, přeji si postupné rozpadání  

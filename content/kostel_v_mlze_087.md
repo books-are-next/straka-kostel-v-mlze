@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Přibližoval jsem se pomalu k jejímu bílému  
      nahému tělu  

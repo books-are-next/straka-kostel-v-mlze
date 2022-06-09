@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Pak už stačilo jen sklonit hlavu  
 ale ticho to nedovolovalo  

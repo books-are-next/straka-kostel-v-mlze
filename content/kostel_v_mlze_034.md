@@ -1,8 +1,7 @@
 ---
+title: Listopad 1991
 contentType: prose
 ---
-
-## Listopad 1991
 
 _Nedělní odpoledne  
 je zalepeno temnou barvou pokažených let  

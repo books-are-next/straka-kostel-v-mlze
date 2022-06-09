@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Pojmenovat jistou zlobu  
 za těmito skly kavárny  

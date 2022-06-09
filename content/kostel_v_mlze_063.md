@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Procházíš dvěma prázdnými pokoji  
 na pootevřené skříně se ti promítají filmy  

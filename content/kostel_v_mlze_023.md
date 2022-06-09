@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 _Černé pokoje někde tam  
 Pochody městem  
@@ -11,8 +10,8 @@ Hlasy, pláč, nesrozumitelná vřava
 Trochu ukňourané ticho  
 Potoky špinavé vody na konci února_
 
-Zas černé pokoje  
+_Zas černé pokoje  
 Předměty na policích  
 Všechno je stejné, stejné, Stejné  
 Opakovals do tabulek malých okének v podkroví  
-Někde tam
+Někde tam_

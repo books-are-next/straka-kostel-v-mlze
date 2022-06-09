@@ -1,8 +1,7 @@
 ---
+title: Záznam, ne jen zanikající obraz
 contentType: prose
 ---
-
-## Záznam, ne jen zanikající obraz
 
 ničíme bezprostřednost  
 přidušený pak výkřik o krajnostech  

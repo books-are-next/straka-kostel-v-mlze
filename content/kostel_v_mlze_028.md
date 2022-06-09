@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Atmosféra nočního bytu  
 mne postupně stále více vykořeňuje  

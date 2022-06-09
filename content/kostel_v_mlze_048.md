@@ -1,8 +1,7 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
-
-## \* \* \*
 
 Už nepotřebuji hodiny navíc, v sobě tu úzkost nedělních odpolední, přešlapování v malém pokoji, který značil dovedně vytvořenou ohraničenost, přibouchnutost dveří od něčeho podstatného.
 

@@ -1,8 +1,7 @@
 ---
+title: Tlak černých čar
 contentType: prose
 ---
-
-## Tlak černých čar
 
 Jakási stálá narýsovanost  
 ode zdi ke zdi  
