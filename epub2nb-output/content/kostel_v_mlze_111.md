@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Ještě tam je  
 ten strach z roztroušených dní  
 neskládajících se v celek –  
@@ -13,3 +15,5 @@ ještě stále je tam ten strach
 že musí zůstat takto osamoceny
 
 ve svém trčení
+
+</section>

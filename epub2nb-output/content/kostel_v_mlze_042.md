@@ -1,6 +1,11 @@
 ---
-title: MALÁTNÉ     POKOJE
+title: ''
 contentType: prose
 ---
 
+<section>
 
+# MALÁTNÉ  
+POKOJE
+
+</section>

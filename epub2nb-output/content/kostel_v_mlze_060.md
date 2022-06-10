@@ -1,7 +1,11 @@
 ---
-title: "*\_*\_*"
+title: ''
 contentType: prose
 ---
+
+<section>
+
+## \* \* \*
 
 Jak vrátit čas uplynulých tří měsíců, jak je kamsi vtěsnat, vmezeřit, nebo naopak vynechat a dívat se na ně s nezúčastněným odstupem, jen třeba nahlédnout, jen tu a tam se přiblížit,  cosi korigovat, vylepšit nebo se jen slepě dívat, být strnulý.
 
@@ -12,3 +16,5 @@ Ještě ne, někdy jindy, ale ještě ne teď. Dlouhý pohled z hotelového okn
 Převlékám si postel, scházím dolů na studenou večeři, soumrak, přemýšlím o dávných dnech, od kterých mne dělí skoro patnáct let, jiné město, povlaky, ornamenty na kobercích a ve vstupních halách, jsem doslova posedlý jedním obrazem, několika ulicemi, neustále jimi v myšlenkách a ve snech procházím, stále stejné počasí, stejná nálada oněch dní…
 
 Přinášejí mi talíře se šunkou a sýry, zeleninou, ošatky pečiva, nabírám si cosi jen namátkou, sedím u okna s výhledem na ulici, kudy se přichází, přijíždí do hotelu, dnes už ale žádní hoteloví hosté nedorazí, otáčím se za sebe, je nás tady jen pár, možná deset, možná, že jsme už všichni, trochu ty lidi kolem sebe pozoruji, úkradkem, tu a tam zaznamenávám barevnost šatů, večerní pleť žen a posunky mužů směrem k nim, ale možná, že chtějí jen tak gestikulovat, dělí nás metry, tento večer si myslím, že nás dělí celý život, setkají-li se ale naše pohledy, ženy a muži se maličko usmívají, můj dokonale padnoucí šedý oblek mne vrací do jejich společnosti, společnosti realitních agentů a různých dealerů se vším možným, oblek mne vrací do jejich představ o mém povolání, tipují, takže asi příliš nevybočuji, ještě že tak, tento večer chci být aspoň trochu s nimi, aspoň v jedné místnosti, trochu se raduji, ale vnitřně, navenek upjatý výraz, trochu se za něj stydím, mohl bych se lehce pousmát, ale nejde to a do konce času vymezeného na večeři s tím asi nic neudělám, tak možná zítra, zítra se o to pokusím, servírka ještě přináší talířek s olivami, neodmítám, zachytávám její už trochu unavený, ale srdečný úsměv, pokládám ubrousek vedle vidličky, neslyšně přisunuji židli, neznatelně se ukloním, snad na omluvu, že jsem se nepřipojil k úsměvům a ševelení jejich rozhovorů a mířím do pater, zanechat za sebou den, týdny, měsíce svého života…
+
+</section>

@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Pomalu posouvám prsty po desce stolu  
 vnímám to naprosto zřetelně a přesto se kamsi  
      ztrácím  
@@ -11,3 +13,5 @@ vnímám to naprosto zřetelně a přesto se kamsi
 dlouhé týdny je potom ticho  
 jen sníh, který padal všude okolo  
 se stal součástí dalšího rozvažování
+
+</section>

@@ -3,6 +3,8 @@ title: Šero prosincového odpoledne
 contentType: prose
 ---
 
+<section>
+
 V odlehlých cizostech  
 domov nacházený pohozený na ulicích  
      vzdáleného města  
@@ -13,3 +15,5 @@ za sebou slyším jak někdo vykřikl slova „das muss…“
 pak je už ticho  
 procházím kolem tušených zdí  
 mých vlastních konců
+
+</section>

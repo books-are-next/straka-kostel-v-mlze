@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 To ticho už nám asi zůstane přisouzeno  
 pohybujeme se v jakýchsi štolách paměti  
 průchody, rychlá přemístění;  
@@ -14,3 +16,5 @@ s hlavami podivně natočenými od sebe
 bojíme se –  
 víme už totiž, že to nic  
                je trvalé
+
+</section>

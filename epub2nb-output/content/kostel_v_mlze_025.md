@@ -3,6 +3,8 @@ title: Tlak černých čar
 contentType: prose
 ---
 
+<section>
+
 Jakási stálá narýsovanost  
 ode zdi ke zdi  
 kdy posunování vpřed znamenalo stát  
@@ -24,3 +26,5 @@ kde už předem bolely oči od sledování všelijakých
      rozměrů a popisků  
 co jiného pak zbývalo než zavřít to malé okno v podkroví  
 a říci si pro sebe to slovo: nechci
+
+</section>

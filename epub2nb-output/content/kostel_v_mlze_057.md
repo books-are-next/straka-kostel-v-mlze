@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Přebývám v jakýchsi „kasárnách“  
 odnikud nikam  
 omezen na vstupní dveře  
@@ -20,3 +22,5 @@ chodíš klikatícími se ulicemi
 ta nepřímost je pak v tobě nějak, zdá se, zakotvena
 
 Další dny zamazáváš černou tuší
+
+</section>

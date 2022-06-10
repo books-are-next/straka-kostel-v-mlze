@@ -3,6 +3,8 @@ title: Bílá mlha
 contentType: prose
 ---
 
+<section>
+
 Cihlový kostel.  
 Sepjaté ruce.  
 Lavice, kde sedíš.  
@@ -11,3 +13,5 @@ Pak se snáší hustý déšť, zrovna když procházíš kolem
      žluté budovy střední školy.  
 Ty roky tam.  
 Do očí bičují krupičky sněhu.
+
+</section>

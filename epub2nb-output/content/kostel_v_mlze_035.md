@@ -3,6 +3,8 @@ title: Mléčná šeď
 contentType: prose
 ---
 
+<section>
+
 Černá období  
 místo s plotem a hradbou  
 lidé chodící v pláštěnkách zachumláni do podivné      jinotajnosti  
@@ -16,3 +18,5 @@ z toho města možná zbývá jen prostor kolem
      cihlového kostela na Horním náměstí  
 když projíždím omženým autobusem okolo něj  
      a pozoruji jej přes orosená okna
+
+</section>

@@ -3,6 +3,8 @@ title: Kostel v mlze
 contentType: prose
 ---
 
+<section>
+
 Slova, která ke komusi nepronikají.  
 Vnímám jen počasí, jednotlivé kroky.  
 Černé boty, které se pomalu posunují k centru města.  
@@ -14,6 +16,10 @@ Znovu, snad po sté, nesouhlas.
 Nutné se stává vynuceným  
 a celé se to až přespříliš opakuje…
 
-  
+</section>
+
+<section>
 
 Kostel v mém rodném městě, kolem kterého právě procházím, není pro samou mlhu naprosto vidět. Zmizel v ní, stejně jako všechno v této chvíli.
+
+</section>

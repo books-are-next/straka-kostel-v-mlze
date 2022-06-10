@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Šedá plocha náměstí se pojí s deštěm  
 s deštěm smíchaným s bílými vločkami  
 několik dní majících ledový povlak  
@@ -14,3 +16,5 @@ procházím stejnými místy
 dotýkám se plotu bývalého letního kina  
 a sleduji postavu v černém plášti připomínající mne  
      před mnoha lety
+
+</section>

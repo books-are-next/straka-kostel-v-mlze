@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 _Jako bych neměl tvář  
 V tuto chvíli mi nic nepřísluší  
 Není tento pokoj, není to kapání vody za mnou  
@@ -36,3 +38,5 @@ už to pak nedávalo jakýkoli smysl
 jen ty tříště mne jakžtakž držely nad hladinou  
 to ostatní už bylo nasáklé vodou, to ostatní se vlastně  
      už dávno ztratilo
+
+</section>

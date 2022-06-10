@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 A pak řekneš šest let  
 ale je to mizení  
 je to ten potácivý obrat  
@@ -19,3 +21,5 @@ do konce dne už se jen přehrabuješ
      ve starých novinách  
 rovnáš knihy do malých komínků  
 pro větší přehlednost
+
+</section>

@@ -3,6 +3,8 @@ title: Náhle II
 contentType: prose
 ---
 
+<section>
+
 zabořit rty v Tvou nepřístupnou část  
 divné pohyby hlavou  
 při hledání páčky, otevírání a zavírání oken  
@@ -12,3 +14,5 @@ náhle je zas vše utnuto v šeď
 ty o tom víš o několik hodin dřív  
 zkřivení úsměvu  
 slzy, které pak nabízíš někomu jinému, cizímu
+
+</section>

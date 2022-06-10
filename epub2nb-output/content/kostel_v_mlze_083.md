@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Zasahuje mne pláč hnědi rozvráceného města  
 unylých nepřítomných pohledů  
 stále stejných barů s tím vším, co se mělo opustit již  
@@ -16,3 +18,5 @@ ještě se zastavuji, kolem mne přejde několik chodců,
 poslouchám jejich řeči, které ilustrují ten strašný  
      neposun času  
 a mé nekonečné stěhování
+
+</section>

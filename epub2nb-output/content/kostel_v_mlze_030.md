@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Čas této hodiny je úmorný  
 vteřinovka na hodinách před tebou se sice  
      posunuje kupředu  
@@ -24,3 +26,5 @@ s červeným kobercem uprostřed
 čas provlhlých stěn  
 nekonečného memorování nesrozumitelného  
 a vědomí šachet, do kterých se propadáš
+
+</section>

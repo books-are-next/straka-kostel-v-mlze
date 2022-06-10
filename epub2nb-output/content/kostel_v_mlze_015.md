@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Tlak bolavých čar  
 vyplňuje duté mezery  
 kdysi snad přítomný čas, který se ale odehrál  
@@ -15,3 +17,5 @@ chytali jsme se tenkrát chrčivých slov, přidávali
      na hlasitosti, než voda v konvici konečně dobublala  
 pak zřetelný posun: hledání na mapách  
 úniky, úkryty, příbytky na cestách
+
+</section>

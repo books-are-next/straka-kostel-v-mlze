@@ -1,6 +1,10 @@
 ---
-title: BÍLÁ MLHA
+title: ''
 contentType: prose
 ---
 
+<section>
 
+# BÍLÁ MLHA
+
+</section>

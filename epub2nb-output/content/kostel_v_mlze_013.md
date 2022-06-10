@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Bolest, která nedrží pohromadě  
 je vlastně stejně roztříštěná jako tento den  
 s výhledem na nábřeží  
@@ -38,3 +40,5 @@ cosi jako šeď z nich skapává těsně pod poslední
 provádíš zbytečné pohyby  
 ještě několik tahů  
 než bude onen den naprosto odepsán
+
+</section>

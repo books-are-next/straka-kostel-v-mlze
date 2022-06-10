@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Už není možné  
 znechucuješ si to  
 poloprázdný svět  
@@ -10,3 +12,5 @@ poloprázdný svět
 divný záklon  
 nyní –  
 naprosto ne
+
+</section>

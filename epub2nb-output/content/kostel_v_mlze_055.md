@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Dopátráváš se paměti  
 ulic, zabahněné ulice, kdesi v tvém rodném městě  
 které jsi zapomněl, vymazal  
@@ -24,3 +26,5 @@ možná že ale vůbec nic, nastupuješ do autobusu
 a počítáš stanice od toho místa  
 až se dopočítáš deseti, vystupuješ na kdysi známé  
      zastávce, poblíž domu se zapovězenou zahradou
+
+</section>

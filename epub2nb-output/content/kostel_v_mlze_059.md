@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Možná nakonec to jediné co zbývá, je psát  
      až do chladných rán  
 s duší vystavenou větru  
@@ -14,3 +16,5 @@ sám procházet zmlklými parky
 až do průchodu prvních lidí  
 jako by nikdy nic  
 jako by nikdy nic poté
+
+</section>

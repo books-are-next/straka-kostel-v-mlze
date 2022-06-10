@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Černá košile, tma, unylá hudba  
 město, o kterém nic nevíš  
 kde jsi ani neměl být  
@@ -11,3 +13,5 @@ procházíš zas kolem kostela –
 mlha stále více brzdí čas  
 a možná že ho i nadobro vynulovala  
 a zůstalo jen pár vzpomínek v šedých krabicích
+
+</section>

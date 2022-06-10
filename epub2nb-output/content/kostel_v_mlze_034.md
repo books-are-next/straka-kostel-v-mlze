@@ -3,6 +3,8 @@ title: Listopad 1991
 contentType: prose
 ---
 
+<section>
+
 _Nedělní odpoledne  
 je zalepeno temnou barvou pokažených let  
 cákance, husté vrstvy  
@@ -19,3 +21,5 @@ nebylo jim ale vidět do tváře
 procházel jsem kolem nich  
 a čekal až zajdou za roh až se tam budu moci vrátit  
 a usednout do zadních lavic
+
+</section>

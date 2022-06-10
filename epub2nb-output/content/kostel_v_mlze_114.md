@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 To ticho pak už nezná jakýkoliv soucit  
 možná jej ani nikdy neznalo  
 stoupám do kopce nad místem zvaným Střelnice  
@@ -17,3 +19,5 @@ mechanicky se otočím na město
 to, které se neustálé vytrácí z mých vzpomínek  
 pokračuji dál: nesouběžnosti, úniky, slova  
      řečená napůl
+
+</section>

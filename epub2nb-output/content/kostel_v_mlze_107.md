@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Unikám stejnosti  
 nahodile, právě tak jak žiji  
 slova si ponechám někdy na potom  
@@ -15,3 +17,5 @@ muž, který opět přichází na nástupiště, najednou
      v ruce drží tašku a trochu zmateně přechází  
 přijíždí tramvaj a zase tam není  
 na ulici se pak snáší cosi těžkého
+
+</section>

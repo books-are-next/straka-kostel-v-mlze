@@ -1,7 +1,11 @@
 ---
-title: O autorovi
+title: ''
 contentType: prose
 ---
+
+<section>
+
+# O autorovi
 
 ![foto_autora](./resources/foto_autora.jpg)
 
@@ -18,3 +22,5 @@ V letech 2000–2008 pracoval, a od podzimu 2015 znovu pracuje v redakci časopi
 V roce 2013 se podílel na organizování básnických večerů a literárních diskuzí v rámci doprovodného programu mezi-národního knižního veletrhu a literárního festivalu Svět knihy Praha. Od léta 2013 též organizuje a moderuje literární večery na lodi Avoid Floating Gallery na náplavce pod pražskou Výtoní. Dále připravuje a uvádí literární akce v pražské kavárně Liberál a na jiných místech v Praze, ale též v Liberci nebo Českém Krumlově.
 
 Původní profesí je psycholog se zaměřením na kritickou ekonomickou psychologii a zabývá se různými aspekty kvality života a pomalostí. Příležitostně přednáší, například v rámci artefiletických kurzů či na konferencích zaměřených na kvalitu života.
+
+</section>

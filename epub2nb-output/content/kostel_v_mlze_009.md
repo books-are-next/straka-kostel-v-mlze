@@ -3,6 +3,8 @@ title: V prohlubni času
 contentType: prose
 ---
 
+<section>
+
 Nepřináležíme si  
 dny, které se nám ztrácejí před očima  
 dny, kdy mlčíme  
@@ -15,3 +17,5 @@ orientujeme se jen podle soumraku
 a podle potřeby spánku  
 trvá to týdny, než se z toho zas probudíme  
 a vše je pak stejné jak dřív
+
+</section>

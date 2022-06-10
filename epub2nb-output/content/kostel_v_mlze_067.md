@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 A pak sedět v prázdném bytě  
 nehotový obraz  
 roky ho nedokážou nahlodat  
@@ -16,3 +18,5 @@ ani jejich skladebnost
 vše zůstane už hrubé  
 stejně jako můj hlas po probuzení  
 když hovoří do ztichlých šedých stěn
+
+</section>

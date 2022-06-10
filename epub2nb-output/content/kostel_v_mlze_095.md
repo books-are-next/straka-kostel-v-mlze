@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Čekání na detail  
 na letmý zákmit  
 tě odhazuje až na konec místnosti  
@@ -21,3 +23,5 @@ v předtuše dalších nocí
 ve kterých nemůže přijít uklidnění  
 jen pozorování  
 vytrvalé pozorování nařasených závěsů
+
+</section>
