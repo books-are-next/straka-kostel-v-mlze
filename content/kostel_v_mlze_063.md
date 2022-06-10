@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Procházíš dvěma prázdnými pokoji  
 na pootevřené skříně se ti promítají filmy  
 co se kdy událo  
@@ -23,3 +25,5 @@ ten pocit se tě ještě drží
 když čekáš na příjezd autobusu  
 na zastávce, na kterou jsi přišel o půl hodiny  
      dřív, než jsi měl
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 **Josef Straka**
 
 **Kostel v mlze**
@@ -32,3 +34,5 @@ Verze 1.0 z 2. 5. 2017
 ISBN 978-80-7532-714-7 (MKP)
 
 ISBN 978-80-86370-63-7 (Cherm)
+
+</section>

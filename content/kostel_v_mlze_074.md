@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Jen jisté tónování šedi  
 ostatní barvy už léta – chybějí  
 jako by ani na ně nikdy nezbývalo  
@@ -17,3 +19,5 @@ při procházkách v horních částech města
 odstíny  
 chybné kroky  
 zmatené věty, které se propadají kamsi dovnitř
+
+</section>

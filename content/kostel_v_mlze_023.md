@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 _Černé pokoje někde tam  
 Pochody městem  
 Zešedlé oči, nejasné obrysy domů  
@@ -15,3 +17,5 @@ Předměty na policích
 Všechno je stejné, stejné, Stejné  
 Opakovals do tabulek malých okének v podkroví  
 Někde tam_
+
+</section>

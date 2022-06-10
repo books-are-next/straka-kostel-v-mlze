@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Podobné úklony hlavou „ano“, „prosím“, „tak“  
 překládání prstů přes sebe znamená čekání  
 nebo: bílé město se svými dlouhými měsíci  
@@ -14,3 +16,5 @@ prsty pak přiložené k očním víčkům
 pauza, ticho  
 zvuk staré kasy  
 ulice protáhlé do šera
+
+</section>

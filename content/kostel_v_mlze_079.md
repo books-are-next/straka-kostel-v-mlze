@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Všechno jízlivé se pomalu vytrácí  
 zůstávají jen divné hlasy  
 kroky v neprošlapaném sněhu  
@@ -16,3 +18,5 @@ náhle tvář schovaná pod polštáři
 otevírání okna  
 poté barvy  
 tma, světlo a zase… tma
+
+</section>

@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Nikdy už ze sebe neshodíš tu děsivou tvář  
      přejemnělosti  
 vždy přesně a pečlivě k čemusi nastavený  
@@ -15,3 +17,5 @@ když jdeš, pak ještě před setměním, vzduchem
      špinavého města  
 míjíš tmavohnědé činžovní domy s vytrženými zvonky  
 a vytrvale zas čekáš na první ohlášení noci
+
+</section>

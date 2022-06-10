@@ -3,6 +3,8 @@ title: Náhle I
 contentType: prose
 ---
 
+<section>
+
 Netrpělivost času  
 držet ještě v rukou den, přeji si postupné rozpadání  
 stezka vedoucí lesem mající podobu listím  
@@ -15,3 +17,5 @@ v metru divné políbení ruky
 nakonec východ z jakéhosi tunelu: žebráci, kachle  
 chtěné štěstí zas jen v mrákotných stavech  
      očekávaného utnutí
+
+</section>

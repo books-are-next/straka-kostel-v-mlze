@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Najednou být někde mimo posedlost  
 mimo jakoukoliv rozpoznatelnou vášeň  
 večerní vzduch, který unavuje  
@@ -17,3 +19,5 @@ těch žlutavých teček v dáli
 vzdáleni pak nadobro jakýmkoliv představám  
 postupně nahrazujeme rozhovory neprostupným  
      záhadným tichem
+
+</section>

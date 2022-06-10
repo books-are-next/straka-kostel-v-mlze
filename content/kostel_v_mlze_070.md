@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 A pak se, ale o několik hodin později, vidím  
      na druhém konci vagónu metra absolutně bez výrazu  
 někde v sobě cítím možná skrytý úsměv  
@@ -19,3 +21,5 @@ ještě si zkontroluji obsah tašky, zda jsem náhodou nic
 sedím, dívám se tak trochu tupě  
 a naslouchám hlášení jednotlivých zastávek,  
      abych nepřejel
+
+</section>

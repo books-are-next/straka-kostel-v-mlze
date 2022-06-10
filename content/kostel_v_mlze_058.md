@@ -3,6 +3,8 @@ title: Dva večery v horečnatém městě
 contentType: prose
 ---
 
+<section>
+
 Už si to nedokážu tak přesně vybavit  
 tlumené přítmí: tlumený hlas  
 bar, který byl situován někam směrem k jihu města  
@@ -35,3 +37,5 @@ dlouho a upřeně ten prostor před sebou pozoruji
      než mne odtamtud vyprovodí hrozivý kašel  
 platím pak s kapesníkem u úst, z očí mi tečou slzy  
 poslední zachytitelné vjemy vnímám jen v jakémsi      horečnatém snu, z něhož se probouzím až druhý den      těsně před polednem v penzionu na okraji města
+
+</section>

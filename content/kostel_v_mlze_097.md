@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 To mimovolné nanášení „barev“  
 tě neuspokojuje  
 drásavé obrysy, které se před očima tak podivně vlní  
@@ -13,3 +15,5 @@ a s ním i to hemžení lidí
 jakoby najednou konec  
 tak prostě řečený  
 oplachuješ si prsty v trochu narezlé vodě
+
+</section>

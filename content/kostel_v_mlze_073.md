@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 _Noc ukrajuje nudu, pozdní lítost  
 zahleděn ve špinavý popelník  
 pochybuji o slovech následujícího dne_
@@ -14,3 +16,5 @@ modré záclony, které jsme každý týden strhávali dolů,
 pronikavost vět odmítání  
 „nic neměnit, není to dobré“  
 a šeptem pak: „nemá se to“
+
+</section>

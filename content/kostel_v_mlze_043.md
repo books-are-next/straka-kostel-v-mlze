@@ -3,6 +3,8 @@ title: Malátné pokoje I
 contentType: prose
 ---
 
+<section>
+
 V malátných místnostech  
 s tím svištivým klokotáním v trubkách  
 je nehostinnost vyměněna za prázdnotu  
@@ -19,3 +21,5 @@ už měsíce k uzoufání zbytečný
 „jenom…“ šeptnu pak  
 a uléhám na válendu ve vyklizeném prostoru  
      jenž kdysi býval bytem
+
+</section>

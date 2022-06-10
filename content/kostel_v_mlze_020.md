@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Šedá barva pozdějších let než tvé dětství  
      se v tobě rozmazává  
 až vytváří jakési podivné skupenství podobné mlze  
@@ -32,3 +34,5 @@ a usedl k pracovnímu stolu s nataženým bílým
 kde nebylo prozatím nic  
 než uprostřed horizontálně vedená  
      přerušovaná čára
+
+</section>

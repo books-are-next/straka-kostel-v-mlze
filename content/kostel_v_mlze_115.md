@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Všechno je tak vratké  
 pochybuji o vlastních krocích  
 stejná náměstí s obřími obrazovkami, na kterých  
@@ -20,3 +22,5 @@ v hospodách stále ty opičí masky, co vyřvávají po každém
      dalším panáku, po každém dalším vstřeleném gólu  
 pak projíždím zeměmi a vzpomínám na setkání  
      na neposečených zahradách
+
+</section>

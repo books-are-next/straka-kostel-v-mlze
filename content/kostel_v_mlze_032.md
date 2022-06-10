@@ -3,6 +3,8 @@ title: Chybění dnů, měsíců
 contentType: prose
 ---
 
+<section>
+
 Samota se mi přibližuje, po čase ji začínám už docela  
      dobře rozpoznávat  
 pak už ani nemám čas litovat, neboť čas stále doháním  
@@ -19,3 +21,5 @@ a neumím posoudit, zda je to dobré či nikoliv
 když si začínám tak nějak pomalu zvykat, nastává září  
 padání listů ohlašuje další koloběh  
 po předání maturitního vysvědčení pak na dlouhý čas      zvolna upadám do těžkých spánků
+
+</section>

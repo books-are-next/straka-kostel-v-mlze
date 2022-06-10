@@ -3,6 +3,8 @@ title: Záznam, ne jen zanikající obraz
 contentType: prose
 ---
 
+<section>
+
 ničíme bezprostřednost  
 přidušený pak výkřik o krajnostech  
 o něčem prý dávno podstatném  
@@ -15,3 +17,5 @@ zpomalenost pohybů v různostech našich představ
 kdosi pak vchází do dveří  
 oba dva instinktivně zaznamenáme tvář příchozího  
 pak ticho: šedé obrazy nad barovým pultem
+
+</section>

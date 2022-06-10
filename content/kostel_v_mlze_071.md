@@ -3,6 +3,8 @@ title: Vlastní pokoj
 contentType: prose
 ---
 
+<section>
+
 _Ten sžírající pohled do černé tmy  
 postupně znehybní prsty na dece  
 představovat si to přesně vteřinu po vteřině_
@@ -16,3 +18,5 @@ co mi vlastně ale vůbec nepatří
 jen tak se mírně čehosi zachytávám, když vracím  
      tubu od zubní pasty  
 do zadní přihrádky
+
+</section>

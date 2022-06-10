@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Projít subjektivní krajinou  
 nechtěně nebo nečekaně  
 naše vratké kroky  
@@ -20,3 +22,5 @@ dotýkám se mlhy, zdí, různě polepených plakátů
      na zdech  
 jdu prosluněným městem  
 strnulými pasážemi ticha
+
+</section>

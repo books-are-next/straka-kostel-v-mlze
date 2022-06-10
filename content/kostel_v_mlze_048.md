@@ -1,7 +1,11 @@
 ---
-title: "*\_*\_*"
+title: ''
 contentType: prose
 ---
+
+<section>
+
+## \* \* \*
 
 Už nepotřebuji hodiny navíc, v sobě tu úzkost nedělních odpolední, přešlapování v malém pokoji, který značil dovedně vytvořenou ohraničenost, přibouchnutost dveří od něčeho podstatného.
 
@@ -28,3 +32,5 @@ Po čase tam nalézt pár rodinných dokumentů.
 Ale jinak nic, šedivá mlha,
 
 sedět pak na židli a mít na dlouhý čas hlavu v dlaních.
+
+</section>

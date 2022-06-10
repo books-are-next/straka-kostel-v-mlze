@@ -3,6 +3,8 @@ title: Březen 1988
 contentType: prose
 ---
 
+<section>
+
 Statické pokoje  
 ustavičně uklízené k návštěvě lidí, kteří ale nikdy  
      nepřijdou  
@@ -19,3 +21,5 @@ na chvíli zastavuje před naším vchodem
 ale zase se asi po minutě rozjíždí  
 teprve pak se dům  
 propadne do svých neochvějných jistot
+
+</section>

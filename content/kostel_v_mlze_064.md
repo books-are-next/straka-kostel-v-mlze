@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Dny jsou jako cáry roztrhané větrem  
 po mnoha úderech zbývá jen unavené ticho  
 vyplněné procházkou po nevzhledných perifériích  
@@ -39,3 +41,5 @@ přesně opisující vrstevnici
 za prvním hrbolem se ztrácím  
 a mizím v padesátimetrové prohlubni  
 v tichu navždy chybějících hodin
+
+</section>

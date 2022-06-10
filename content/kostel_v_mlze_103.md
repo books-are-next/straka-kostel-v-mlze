@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 Lidé se dotýkají špinavých parapetů v mezipatrech  
 unaveně pokládají prsty  
 středa: další den jejich neposunu nikam  
@@ -15,3 +17,5 @@ a s podobnými osudy: dá se to poznat z jejich lehce
      klátivé chůze a do sebe ponořených pohledů  
 nikomu nic neříkají, jen tu a tam utrousí pár konverzačních  
      frází, které je však zmáhají o to víc
+
+</section>
