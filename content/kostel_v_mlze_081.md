@@ -15,6 +15,6 @@ procházíme jím pak v jistém předklonu
 s hlavami podivně natočenými od sebe  
 bojíme se –  
 víme už totiž, že to nic  
-               je trvalé
+            je trvalé
 
 </section>
