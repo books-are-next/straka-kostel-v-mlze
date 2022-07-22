@@ -1,1 +1,2372 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "title": "Kostel v mlze",
+      "identifier": "8f9c38d6-6b13-4e76-9051-c2f8418b932b",
+      "author": "Josef Straka",
+      "publisher": [
+        "Městská knihovna v Praze",
+        "Cherm"
+      ],
+      "modified": "2017-05-09T00:00:00.000Z",
+      "contentType": "poetry",
+      "publisherShort": "mkp",
+      "edition": "poezie"
+    },
+    "elements": {
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL\ne-booknadpis1\ne-booknadpis ",
+      "subtitle": "",
+      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "kostel_v_mlze_001.md",
+            "xhtml": "kostel_v_mlze_001.html",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_002.md",
+            "xhtml": "kostel_v_mlze_002.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_003.md",
+            "xhtml": "kostel_v_mlze_003.html",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_004.md",
+            "xhtml": "kostel_v_mlze_004.html",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_005.md",
+            "xhtml": "kostel_v_mlze_005.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Kostel v mlze"
+          },
+          {
+            "filename": "kostel_v_mlze_006.md",
+            "xhtml": "kostel_v_mlze_006.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Listopad 1987"
+          },
+          {
+            "filename": "kostel_v_mlze_007.md",
+            "xhtml": "kostel_v_mlze_007.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_008.md",
+            "xhtml": "kostel_v_mlze_008.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_009.md",
+            "xhtml": "kostel_v_mlze_009.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "V prohlubni času"
+          },
+          {
+            "filename": "kostel_v_mlze_010.md",
+            "xhtml": "kostel_v_mlze_010.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_011.md",
+            "xhtml": "kostel_v_mlze_011.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Březen 1988"
+          },
+          {
+            "filename": "kostel_v_mlze_012.md",
+            "xhtml": "kostel_v_mlze_012.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_013.md",
+            "xhtml": "kostel_v_mlze_013.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_014.md",
+            "xhtml": "kostel_v_mlze_014.html",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Jisté jámy a průseky"
+          },
+          {
+            "filename": "kostel_v_mlze_015.md",
+            "xhtml": "kostel_v_mlze_015.html",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_016.md",
+            "xhtml": "kostel_v_mlze_016.html",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Podzim 1988"
+          },
+          {
+            "filename": "kostel_v_mlze_017.md",
+            "xhtml": "kostel_v_mlze_017.html",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_018.md",
+            "xhtml": "kostel_v_mlze_018.html",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_019.md",
+            "xhtml": "kostel_v_mlze_019.html",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_020.md",
+            "xhtml": "kostel_v_mlze_020.html",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_021.md",
+            "xhtml": "kostel_v_mlze_021.html",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_022.md",
+            "xhtml": "kostel_v_mlze_022.html",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_023.md",
+            "xhtml": "kostel_v_mlze_023.html",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_024.md",
+            "xhtml": "kostel_v_mlze_024.html",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_025.md",
+            "xhtml": "kostel_v_mlze_025.html",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Tlak černých čar"
+          },
+          {
+            "filename": "kostel_v_mlze_026.md",
+            "xhtml": "kostel_v_mlze_026.html",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_027.md",
+            "xhtml": "kostel_v_mlze_027.html",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_028.md",
+            "xhtml": "kostel_v_mlze_028.html",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_029.md",
+            "xhtml": "kostel_v_mlze_029.html",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_030.md",
+            "xhtml": "kostel_v_mlze_030.html",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_031.md",
+            "xhtml": "kostel_v_mlze_031.html",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_032.md",
+            "xhtml": "kostel_v_mlze_032.html",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Chybění dnů, měsíců"
+          },
+          {
+            "filename": "kostel_v_mlze_033.md",
+            "xhtml": "kostel_v_mlze_033.html",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Září 1991"
+          },
+          {
+            "filename": "kostel_v_mlze_034.md",
+            "xhtml": "kostel_v_mlze_034.html",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Listopad 1991"
+          },
+          {
+            "filename": "kostel_v_mlze_035.md",
+            "xhtml": "kostel_v_mlze_035.html",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Mléčná šeď"
+          },
+          {
+            "filename": "kostel_v_mlze_036.md",
+            "xhtml": "kostel_v_mlze_036.html",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_037.md",
+            "xhtml": "kostel_v_mlze_037.html",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_038.md",
+            "xhtml": "kostel_v_mlze_038.html",
+            "id": 37,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_039.md",
+            "xhtml": "kostel_v_mlze_039.html",
+            "id": 38,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_040.md",
+            "xhtml": "kostel_v_mlze_040.html",
+            "id": 39,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_041.md",
+            "xhtml": "kostel_v_mlze_041.html",
+            "id": 40,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_042.md",
+            "xhtml": "kostel_v_mlze_042.html",
+            "id": 41,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_043.md",
+            "xhtml": "kostel_v_mlze_043.html",
+            "id": 42,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Malátné pokoje I"
+          },
+          {
+            "filename": "kostel_v_mlze_044.md",
+            "xhtml": "kostel_v_mlze_044.html",
+            "id": 43,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Malátné pokoje II"
+          },
+          {
+            "filename": "kostel_v_mlze_045.md",
+            "xhtml": "kostel_v_mlze_045.html",
+            "id": 44,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Malátné pokoje III"
+          },
+          {
+            "filename": "kostel_v_mlze_046.md",
+            "xhtml": "kostel_v_mlze_046.html",
+            "id": 45,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_047.md",
+            "xhtml": "kostel_v_mlze_047.html",
+            "id": 46,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_048.md",
+            "xhtml": "kostel_v_mlze_048.html",
+            "id": 47,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_049.md",
+            "xhtml": "kostel_v_mlze_049.html",
+            "id": 48,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_050.md",
+            "xhtml": "kostel_v_mlze_050.html",
+            "id": 49,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_051.md",
+            "xhtml": "kostel_v_mlze_051.html",
+            "id": 50,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_052.md",
+            "xhtml": "kostel_v_mlze_052.html",
+            "id": 51,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_053.md",
+            "xhtml": "kostel_v_mlze_053.html",
+            "id": 52,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_054.md",
+            "xhtml": "kostel_v_mlze_054.html",
+            "id": 53,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_055.md",
+            "xhtml": "kostel_v_mlze_055.html",
+            "id": 54,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_056.md",
+            "xhtml": "kostel_v_mlze_056.html",
+            "id": 55,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_057.md",
+            "xhtml": "kostel_v_mlze_057.html",
+            "id": 56,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_058.md",
+            "xhtml": "kostel_v_mlze_058.html",
+            "id": 57,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Dva večery v horečnatém městě"
+          },
+          {
+            "filename": "kostel_v_mlze_059.md",
+            "xhtml": "kostel_v_mlze_059.html",
+            "id": 58,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_060.md",
+            "xhtml": "kostel_v_mlze_060.html",
+            "id": 59,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_061.md",
+            "xhtml": "kostel_v_mlze_061.html",
+            "id": 60,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_062.md",
+            "xhtml": "kostel_v_mlze_062.html",
+            "id": 61,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_063.md",
+            "xhtml": "kostel_v_mlze_063.html",
+            "id": 62,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_064.md",
+            "xhtml": "kostel_v_mlze_064.html",
+            "id": 63,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_065.md",
+            "xhtml": "kostel_v_mlze_065.html",
+            "id": 64,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_066.md",
+            "xhtml": "kostel_v_mlze_066.html",
+            "id": 65,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_067.md",
+            "xhtml": "kostel_v_mlze_067.html",
+            "id": 66,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_068.md",
+            "xhtml": "kostel_v_mlze_068.html",
+            "id": 67,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_069.md",
+            "xhtml": "kostel_v_mlze_069.html",
+            "id": 68,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_070.md",
+            "xhtml": "kostel_v_mlze_070.html",
+            "id": 69,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_071.md",
+            "xhtml": "kostel_v_mlze_071.html",
+            "id": 70,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Vlastní pokoj"
+          },
+          {
+            "filename": "kostel_v_mlze_072.md",
+            "xhtml": "kostel_v_mlze_072.html",
+            "id": 71,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_073.md",
+            "xhtml": "kostel_v_mlze_073.html",
+            "id": 72,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_074.md",
+            "xhtml": "kostel_v_mlze_074.html",
+            "id": 73,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_075.md",
+            "xhtml": "kostel_v_mlze_075.html",
+            "id": 74,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Nulový bod"
+          },
+          {
+            "filename": "kostel_v_mlze_076.md",
+            "xhtml": "kostel_v_mlze_076.html",
+            "id": 75,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_077.md",
+            "xhtml": "kostel_v_mlze_077.html",
+            "id": 76,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Před Tvým probuzením"
+          },
+          {
+            "filename": "kostel_v_mlze_078.md",
+            "xhtml": "kostel_v_mlze_078.html",
+            "id": 77,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_079.md",
+            "xhtml": "kostel_v_mlze_079.html",
+            "id": 78,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_080.md",
+            "xhtml": "kostel_v_mlze_080.html",
+            "id": 79,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_081.md",
+            "xhtml": "kostel_v_mlze_081.html",
+            "id": 80,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_082.md",
+            "xhtml": "kostel_v_mlze_082.html",
+            "id": 81,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_083.md",
+            "xhtml": "kostel_v_mlze_083.html",
+            "id": 82,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_084.md",
+            "xhtml": "kostel_v_mlze_084.html",
+            "id": 83,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_085.md",
+            "xhtml": "kostel_v_mlze_085.html",
+            "id": 84,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_086.md",
+            "xhtml": "kostel_v_mlze_086.html",
+            "id": 85,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_087.md",
+            "xhtml": "kostel_v_mlze_087.html",
+            "id": 86,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_088.md",
+            "xhtml": "kostel_v_mlze_088.html",
+            "id": 87,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Náhle I"
+          },
+          {
+            "filename": "kostel_v_mlze_089.md",
+            "xhtml": "kostel_v_mlze_089.html",
+            "id": 88,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Záznam, ne jen zanikající obraz"
+          },
+          {
+            "filename": "kostel_v_mlze_090.md",
+            "xhtml": "kostel_v_mlze_090.html",
+            "id": 89,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Náhle II"
+          },
+          {
+            "filename": "kostel_v_mlze_091.md",
+            "xhtml": "kostel_v_mlze_091.html",
+            "id": 90,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_092.md",
+            "xhtml": "kostel_v_mlze_092.html",
+            "id": 91,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Teď strnulost:"
+          },
+          {
+            "filename": "kostel_v_mlze_093.md",
+            "xhtml": "kostel_v_mlze_093.html",
+            "id": 92,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_094.md",
+            "xhtml": "kostel_v_mlze_094.html",
+            "id": 93,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_095.md",
+            "xhtml": "kostel_v_mlze_095.html",
+            "id": 94,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_096.md",
+            "xhtml": "kostel_v_mlze_096.html",
+            "id": 95,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_097.md",
+            "xhtml": "kostel_v_mlze_097.html",
+            "id": 96,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_098.md",
+            "xhtml": "kostel_v_mlze_098.html",
+            "id": 97,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_099.md",
+            "xhtml": "kostel_v_mlze_099.html",
+            "id": 98,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_100.md",
+            "xhtml": "kostel_v_mlze_100.html",
+            "id": 99,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_101.md",
+            "xhtml": "kostel_v_mlze_101.html",
+            "id": 100,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_102.md",
+            "xhtml": "kostel_v_mlze_102.html",
+            "id": 101,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Šero prosincového odpoledne"
+          },
+          {
+            "filename": "kostel_v_mlze_103.md",
+            "xhtml": "kostel_v_mlze_103.html",
+            "id": 102,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_104.md",
+            "xhtml": "kostel_v_mlze_104.html",
+            "id": 103,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_105.md",
+            "xhtml": "kostel_v_mlze_105.html",
+            "id": 104,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_106.md",
+            "xhtml": "kostel_v_mlze_106.html",
+            "id": 105,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_107.md",
+            "xhtml": "kostel_v_mlze_107.html",
+            "id": 106,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_108.md",
+            "xhtml": "kostel_v_mlze_108.html",
+            "id": 107,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_109.md",
+            "xhtml": "kostel_v_mlze_109.html",
+            "id": 108,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_110.md",
+            "xhtml": "kostel_v_mlze_110.html",
+            "id": 109,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_111.md",
+            "xhtml": "kostel_v_mlze_111.html",
+            "id": 110,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_112.md",
+            "xhtml": "kostel_v_mlze_112.html",
+            "id": 111,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_113.md",
+            "xhtml": "kostel_v_mlze_113.html",
+            "id": 112,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_114.md",
+            "xhtml": "kostel_v_mlze_114.html",
+            "id": 113,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_115.md",
+            "xhtml": "kostel_v_mlze_115.html",
+            "id": 114,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_116.md",
+            "xhtml": "kostel_v_mlze_116.html",
+            "id": 115,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_117.md",
+            "xhtml": "kostel_v_mlze_117.html",
+            "id": 116,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_118.md",
+            "xhtml": "kostel_v_mlze_118.html",
+            "id": 117,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Listopad 2007"
+          },
+          {
+            "filename": "kostel_v_mlze_119.md",
+            "xhtml": "kostel_v_mlze_119.html",
+            "id": 118,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_120.md",
+            "xhtml": "kostel_v_mlze_120.html",
+            "id": 119,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_121.md",
+            "xhtml": "kostel_v_mlze_121.html",
+            "id": 120,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "* * *"
+          },
+          {
+            "filename": "kostel_v_mlze_122.md",
+            "xhtml": "kostel_v_mlze_122.html",
+            "id": 121,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "Bílá mlha"
+          },
+          {
+            "filename": "kostel_v_mlze_123.md",
+            "xhtml": "kostel_v_mlze_123.html",
+            "id": 122,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_124.md",
+            "xhtml": "kostel_v_mlze_124.html",
+            "id": 123,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "kostel_v_mlze_125.md",
+            "xhtml": "kostel_v_mlze_125.html",
+            "id": 124,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Kostel v mlze",
+      "identifier": "8f9c38d6-6b13-4e76-9051-c2f8418b932b",
+      "author": "Josef Straka",
+      "publisher": [
+        "Městská knihovna v Praze",
+        "Cherm"
+      ],
+      "modified": "2017-05-09T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_001.md",
+        "xhtml": "kostel_v_mlze_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_002.md",
+        "xhtml": "kostel_v_mlze_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_003.md",
+        "xhtml": "kostel_v_mlze_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_004.md",
+        "xhtml": "kostel_v_mlze_004.html"
+      },
+      {
+        "titleSuggest": "Kostel v mlze",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_005.md",
+        "xhtml": "kostel_v_mlze_005.html"
+      },
+      {
+        "titleSuggest": "Listopad 1987",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_006.md",
+        "xhtml": "kostel_v_mlze_006.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_007.md",
+        "xhtml": "kostel_v_mlze_007.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_008.md",
+        "xhtml": "kostel_v_mlze_008.html"
+      },
+      {
+        "titleSuggest": "V prohlubni času",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_009.md",
+        "xhtml": "kostel_v_mlze_009.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_010.md",
+        "xhtml": "kostel_v_mlze_010.html"
+      },
+      {
+        "titleSuggest": "Březen 1988",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_011.md",
+        "xhtml": "kostel_v_mlze_011.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_012.md",
+        "xhtml": "kostel_v_mlze_012.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_013.md",
+        "xhtml": "kostel_v_mlze_013.html"
+      },
+      {
+        "titleSuggest": "Jisté jámy a průseky",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_014.md",
+        "xhtml": "kostel_v_mlze_014.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_015.md",
+        "xhtml": "kostel_v_mlze_015.html"
+      },
+      {
+        "titleSuggest": "Podzim 1988",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_016.md",
+        "xhtml": "kostel_v_mlze_016.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_017.md",
+        "xhtml": "kostel_v_mlze_017.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_018.md",
+        "xhtml": "kostel_v_mlze_018.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_019.md",
+        "xhtml": "kostel_v_mlze_019.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_020.md",
+        "xhtml": "kostel_v_mlze_020.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_021.md",
+        "xhtml": "kostel_v_mlze_021.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_022.md",
+        "xhtml": "kostel_v_mlze_022.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_023.md",
+        "xhtml": "kostel_v_mlze_023.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_024.md",
+        "xhtml": "kostel_v_mlze_024.html"
+      },
+      {
+        "titleSuggest": "Tlak černých čar",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_025.md",
+        "xhtml": "kostel_v_mlze_025.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_026.md",
+        "xhtml": "kostel_v_mlze_026.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_027.md",
+        "xhtml": "kostel_v_mlze_027.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_028.md",
+        "xhtml": "kostel_v_mlze_028.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_029.md",
+        "xhtml": "kostel_v_mlze_029.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_030.md",
+        "xhtml": "kostel_v_mlze_030.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_031.md",
+        "xhtml": "kostel_v_mlze_031.html"
+      },
+      {
+        "titleSuggest": "Chybění dnů, měsíců",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_032.md",
+        "xhtml": "kostel_v_mlze_032.html"
+      },
+      {
+        "titleSuggest": "Září 1991",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_033.md",
+        "xhtml": "kostel_v_mlze_033.html"
+      },
+      {
+        "titleSuggest": "Listopad 1991",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_034.md",
+        "xhtml": "kostel_v_mlze_034.html"
+      },
+      {
+        "titleSuggest": "Mléčná šeď",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_035.md",
+        "xhtml": "kostel_v_mlze_035.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_036.md",
+        "xhtml": "kostel_v_mlze_036.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_037.md",
+        "xhtml": "kostel_v_mlze_037.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_038.md",
+        "xhtml": "kostel_v_mlze_038.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_039.md",
+        "xhtml": "kostel_v_mlze_039.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_040.md",
+        "xhtml": "kostel_v_mlze_040.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_041.md",
+        "xhtml": "kostel_v_mlze_041.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_042.md",
+        "xhtml": "kostel_v_mlze_042.html"
+      },
+      {
+        "titleSuggest": "Malátné pokoje I",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_043.md",
+        "xhtml": "kostel_v_mlze_043.html"
+      },
+      {
+        "titleSuggest": "Malátné pokoje II",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_044.md",
+        "xhtml": "kostel_v_mlze_044.html"
+      },
+      {
+        "titleSuggest": "Malátné pokoje III",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_045.md",
+        "xhtml": "kostel_v_mlze_045.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_046.md",
+        "xhtml": "kostel_v_mlze_046.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_047.md",
+        "xhtml": "kostel_v_mlze_047.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_048.md",
+        "xhtml": "kostel_v_mlze_048.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_049.md",
+        "xhtml": "kostel_v_mlze_049.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_050.md",
+        "xhtml": "kostel_v_mlze_050.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_051.md",
+        "xhtml": "kostel_v_mlze_051.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_052.md",
+        "xhtml": "kostel_v_mlze_052.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_053.md",
+        "xhtml": "kostel_v_mlze_053.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_054.md",
+        "xhtml": "kostel_v_mlze_054.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_055.md",
+        "xhtml": "kostel_v_mlze_055.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_056.md",
+        "xhtml": "kostel_v_mlze_056.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_057.md",
+        "xhtml": "kostel_v_mlze_057.html"
+      },
+      {
+        "titleSuggest": "Dva večery v horečnatém městě",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_058.md",
+        "xhtml": "kostel_v_mlze_058.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_059.md",
+        "xhtml": "kostel_v_mlze_059.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_060.md",
+        "xhtml": "kostel_v_mlze_060.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_061.md",
+        "xhtml": "kostel_v_mlze_061.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_062.md",
+        "xhtml": "kostel_v_mlze_062.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_063.md",
+        "xhtml": "kostel_v_mlze_063.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_064.md",
+        "xhtml": "kostel_v_mlze_064.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_065.md",
+        "xhtml": "kostel_v_mlze_065.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_066.md",
+        "xhtml": "kostel_v_mlze_066.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_067.md",
+        "xhtml": "kostel_v_mlze_067.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_068.md",
+        "xhtml": "kostel_v_mlze_068.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_069.md",
+        "xhtml": "kostel_v_mlze_069.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_070.md",
+        "xhtml": "kostel_v_mlze_070.html"
+      },
+      {
+        "titleSuggest": "Vlastní pokoj",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_071.md",
+        "xhtml": "kostel_v_mlze_071.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_072.md",
+        "xhtml": "kostel_v_mlze_072.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_073.md",
+        "xhtml": "kostel_v_mlze_073.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_074.md",
+        "xhtml": "kostel_v_mlze_074.html"
+      },
+      {
+        "titleSuggest": "Nulový bod",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_075.md",
+        "xhtml": "kostel_v_mlze_075.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_076.md",
+        "xhtml": "kostel_v_mlze_076.html"
+      },
+      {
+        "titleSuggest": "Před Tvým probuzením",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_077.md",
+        "xhtml": "kostel_v_mlze_077.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_078.md",
+        "xhtml": "kostel_v_mlze_078.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_079.md",
+        "xhtml": "kostel_v_mlze_079.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_080.md",
+        "xhtml": "kostel_v_mlze_080.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_081.md",
+        "xhtml": "kostel_v_mlze_081.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_082.md",
+        "xhtml": "kostel_v_mlze_082.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_083.md",
+        "xhtml": "kostel_v_mlze_083.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_084.md",
+        "xhtml": "kostel_v_mlze_084.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_085.md",
+        "xhtml": "kostel_v_mlze_085.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_086.md",
+        "xhtml": "kostel_v_mlze_086.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_087.md",
+        "xhtml": "kostel_v_mlze_087.html"
+      },
+      {
+        "titleSuggest": "Náhle I",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_088.md",
+        "xhtml": "kostel_v_mlze_088.html"
+      },
+      {
+        "titleSuggest": "Záznam, ne jen zanikající obraz",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_089.md",
+        "xhtml": "kostel_v_mlze_089.html"
+      },
+      {
+        "titleSuggest": "Náhle II",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_090.md",
+        "xhtml": "kostel_v_mlze_090.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_091.md",
+        "xhtml": "kostel_v_mlze_091.html"
+      },
+      {
+        "titleSuggest": "Teď strnulost:",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_092.md",
+        "xhtml": "kostel_v_mlze_092.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_093.md",
+        "xhtml": "kostel_v_mlze_093.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_094.md",
+        "xhtml": "kostel_v_mlze_094.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_095.md",
+        "xhtml": "kostel_v_mlze_095.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_096.md",
+        "xhtml": "kostel_v_mlze_096.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_097.md",
+        "xhtml": "kostel_v_mlze_097.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_098.md",
+        "xhtml": "kostel_v_mlze_098.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_099.md",
+        "xhtml": "kostel_v_mlze_099.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_100.md",
+        "xhtml": "kostel_v_mlze_100.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_101.md",
+        "xhtml": "kostel_v_mlze_101.html"
+      },
+      {
+        "titleSuggest": "Šero prosincového odpoledne",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_102.md",
+        "xhtml": "kostel_v_mlze_102.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_103.md",
+        "xhtml": "kostel_v_mlze_103.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_104.md",
+        "xhtml": "kostel_v_mlze_104.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_105.md",
+        "xhtml": "kostel_v_mlze_105.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_106.md",
+        "xhtml": "kostel_v_mlze_106.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_107.md",
+        "xhtml": "kostel_v_mlze_107.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_108.md",
+        "xhtml": "kostel_v_mlze_108.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_109.md",
+        "xhtml": "kostel_v_mlze_109.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_110.md",
+        "xhtml": "kostel_v_mlze_110.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_111.md",
+        "xhtml": "kostel_v_mlze_111.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_112.md",
+        "xhtml": "kostel_v_mlze_112.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_113.md",
+        "xhtml": "kostel_v_mlze_113.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_114.md",
+        "xhtml": "kostel_v_mlze_114.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_115.md",
+        "xhtml": "kostel_v_mlze_115.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_116.md",
+        "xhtml": "kostel_v_mlze_116.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_117.md",
+        "xhtml": "kostel_v_mlze_117.html"
+      },
+      {
+        "titleSuggest": "Listopad 2007",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_118.md",
+        "xhtml": "kostel_v_mlze_118.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_119.md",
+        "xhtml": "kostel_v_mlze_119.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_120.md",
+        "xhtml": "kostel_v_mlze_120.html"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_121.md",
+        "xhtml": "kostel_v_mlze_121.html"
+      },
+      {
+        "titleSuggest": "Bílá mlha",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_122.md",
+        "xhtml": "kostel_v_mlze_122.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_123.md",
+        "xhtml": "kostel_v_mlze_123.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_124.md",
+        "xhtml": "kostel_v_mlze_124.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kostel_v_mlze_125.md",
+        "xhtml": "kostel_v_mlze_125.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/reklama_cherm.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/foto_autora.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      }
+    ],
+    "classes": [
+      "calibre10",
+      "calibre13",
+      "calibre14",
+      "calibre17",
+      "calibre18",
+      "calibre20",
+      "calibre22",
+      "calibre23",
+      "calibre24",
+      "calibre25",
+      "calibre26",
+      "calibre27",
+      "calibre28",
+      "calibre29",
+      "calibre30",
+      "calibre31",
+      "calibre32",
+      "calibre33",
+      "calibre35",
+      "calibre4",
+      "e-booklicenceparagraf",
+      "e-booklicencetext",
+      "e-booklicencetexthypertext9bchar",
+      "e-booknadpis",
+      "e-booknadpis1",
+      "e-booknadpis2probasne",
+      "e-bookprozatext",
+      "e-bookprozatextkurzivadoprava",
+      "e-booktirazacitacetext",
+      "e-booktirazacitacetext1",
+      "e-booktirazacitacetextkurzivachar",
+      "e-booktirazautoradilo",
+      "e-booktiraztexttucnechar",
+      "e-booktitulkaautor",
+      "e-booktitulkadilo",
+      "e-bookversebezpredsazeni6bza",
+      "e-bookversebezpredsazeni6bzakurziva",
+      "msonormal",
+      "pcalibre",
+      "pcalibre1",
+      "siktancodsazeniponadpisu",
+      "wordsection",
+      "wordsection1",
+      "wordsection3",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6",
+      "wordsection7",
+      "wordsection8"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "straka-kostel-v-mlze"
+    },
+    "generatedAt": 1658413543904
+  }
+}
