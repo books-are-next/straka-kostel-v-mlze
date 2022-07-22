@@ -1,6 +1,6 @@
 ---
 title: Malátné pokoje III
-contentType: prose
+contentType: poetry
 ---
 
 <section>

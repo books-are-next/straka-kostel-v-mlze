@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: "*\_*\_*"
+contentType: poetry
 ---
 
 <section>
-
-## \* \* \*
 
 Udaná adresa. Nepřesně se pak vyjadřuji, také se opakuji a převracím slova do nesrozumitelnosti. Šeptám. Zvyšuji hlas. Polykám koncovky. Mizím nočním městem, někde na jihu, bez možnosti se dovolat posledních dnů.
 

@@ -1,6 +1,6 @@
 ---
 title: Jisté jámy a průseky
-contentType: prose
+contentType: poetry
 ---
 
 <section>

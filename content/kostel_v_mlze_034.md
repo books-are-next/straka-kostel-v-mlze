@@ -1,6 +1,6 @@
 ---
 title: Listopad 1991
-contentType: prose
+contentType: poetry
 ---
 
 <section>

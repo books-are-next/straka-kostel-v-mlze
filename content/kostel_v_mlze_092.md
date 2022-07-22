@@ -1,6 +1,6 @@
 ---
 title: 'Teď strnulost:'
-contentType: prose
+contentType: poetry
 ---
 
 <section>

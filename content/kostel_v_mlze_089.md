@@ -1,6 +1,6 @@
 ---
 title: Záznam, ne jen zanikající obraz
-contentType: prose
+contentType: poetry
 ---
 
 <section>

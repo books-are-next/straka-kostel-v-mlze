@@ -1,6 +1,6 @@
 ---
 title: Náhle II
-contentType: prose
+contentType: poetry
 ---
 
 <section>

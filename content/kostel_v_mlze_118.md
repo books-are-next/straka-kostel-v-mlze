@@ -1,6 +1,6 @@
 ---
 title: Listopad 2007
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: V prohlubni času
-contentType: prose
+contentType: poetry
 ---
 
 <section>

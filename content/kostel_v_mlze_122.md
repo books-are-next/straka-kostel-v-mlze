@@ -1,6 +1,6 @@
 ---
 title: Bílá mlha
-contentType: prose
+contentType: poetry
 ---
 
 <section>

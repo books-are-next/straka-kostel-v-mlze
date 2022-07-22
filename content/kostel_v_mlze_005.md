@@ -1,6 +1,6 @@
 ---
 title: Kostel v mlze
-contentType: prose
+contentType: poetry
 ---
 
 <section>

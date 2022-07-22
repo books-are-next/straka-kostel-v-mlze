@@ -1,6 +1,6 @@
 ---
 title: Vlastní pokoj
-contentType: prose
+contentType: poetry
 ---
 
 <section>

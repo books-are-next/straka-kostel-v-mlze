@@ -1,6 +1,6 @@
 ---
 title: Chybění dnů, měsíců
-contentType: prose
+contentType: poetry
 ---
 
 <section>

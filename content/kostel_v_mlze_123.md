@@ -1,12 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Dávný imperativ     Doslov Jana Štolby
+contentType: poetry
 ---
 
 <section>
-
-# Dávný imperativ  
-_Doslov Jana Štolby_
 
 Co je to za pocit, jejž se Josef Straka (1972) snaží tak vytrvale od první stránky své nové knihy _Kostel v mlze_ vyslovit, zachytit v monochromních odstínech, vysledovat v jeho monotónních proměnách? Je to pocit prázdnoty, marnosti, zastřenosti, úmory celé existence, bezcílného opakování všeho, žádný směr, žádný cíl lhostejně se kupících dnů? Jde o všeprostupující dojem izolace, rozpojenosti, zcizenosti? O stav, kdy „si nepřináležíme“? Podobné nálady ožívaly již ve Strakových předchozích knížkách _(…a jiné časy_, 1994; _Hotel Bristol_, 2004; _Město Mons_, 2005). Osamělost a neútěšnost jsou v jeho nové sbírce až neuvěřitelně vždypřítomné, jednolité a setrvalé. Autor je před námi předestírá s otevřeností málem bezelstnou, nesnaží se o složité obrazné konstrukce či myšlenkové kličky, neusiluje vůbec o nic takzvaně básnického. Jen před námi šrafuje abstraktní šeď stavů a chvil, docela nezáludně, s nečekaným, tiše neochvějným odstínem pozdní, uměřené dekadence, zprvu v podobě fragmentárního vzpomínkového „deníku“ studentských let, později formou cestovních útržků, nakonec i prostřednictvím zastřeně erotických zmínek či sotva naznačených, drolících se partnerských „dialogů“. Ani ty však nezruší pocit neodbytné prázdnoty a osamění, možná ho paradoxně ještě umocní. Napadá nás: nemáme nakonec pod záměrnou jednotvárností veršů vyčkat ještě na něco dalšího, jinak řečeného, co se dosud sotva znatelně míhalo pod povrchem?
 

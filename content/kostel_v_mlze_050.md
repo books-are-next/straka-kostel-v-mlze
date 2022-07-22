@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Zappe
+contentType: poetry
 ---
 
 <section>
-
-## Zappe
 
 Doslova jsem se prodíral ulicemi, stoupal a zase klesal a někde v polovině jedné z nich, v ulici Na svahu, jsem zahlédl mezi okny název Zappe. Byl to starý dům, ve stylu, který se nazývá sudetská secese, dům typický pro toto město a jeho různá předměstí, a vedle další, žlutý s ornamentální fasádou.
 

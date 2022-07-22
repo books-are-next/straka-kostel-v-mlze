@@ -1,10 +1,6 @@
 ---
-title: ''
-contentType: prose
+title: BÍLÁ MLHA
+contentType: poetry
 ---
 
-<section>
 
-# BÍLÁ MLHA
-
-</section>

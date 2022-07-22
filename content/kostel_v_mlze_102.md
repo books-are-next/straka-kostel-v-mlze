@@ -1,6 +1,6 @@
 ---
 title: Šero prosincového odpoledne
-contentType: prose
+contentType: poetry
 ---
 
 <section>

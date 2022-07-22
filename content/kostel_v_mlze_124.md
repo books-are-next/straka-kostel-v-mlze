@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: O autorovi
+contentType: poetry
 ---
 
 <section>
-
-# O autorovi
 
 ![foto_autora](./resources/foto_autora.jpg)
 

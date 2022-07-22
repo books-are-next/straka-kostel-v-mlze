@@ -1,6 +1,6 @@
 ---
 title: Mléčná šeď
-contentType: prose
+contentType: poetry
 ---
 
 <section>

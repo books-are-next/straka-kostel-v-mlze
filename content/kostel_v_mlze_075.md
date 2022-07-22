@@ -1,6 +1,6 @@
 ---
 title: Nulový bod
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Malátné pokoje I
-contentType: prose
+contentType: poetry
 ---
 
 <section>

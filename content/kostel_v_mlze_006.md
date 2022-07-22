@@ -1,6 +1,6 @@
 ---
 title: Listopad 1987
-contentType: prose
+contentType: poetry
 ---
 
 <section>

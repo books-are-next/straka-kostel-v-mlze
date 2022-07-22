@@ -1,6 +1,6 @@
 ---
 title: Dva večery v horečnatém městě
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Podzim 1988
-contentType: prose
+contentType: poetry
 ---
 
 <section>

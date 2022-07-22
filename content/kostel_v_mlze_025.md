@@ -1,6 +1,6 @@
 ---
 title: Tlak černých čar
-contentType: prose
+contentType: poetry
 ---
 
 <section>

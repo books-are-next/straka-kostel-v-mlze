@@ -1,6 +1,6 @@
 ---
 title: Náhle I
-contentType: prose
+contentType: poetry
 ---
 
 <section>

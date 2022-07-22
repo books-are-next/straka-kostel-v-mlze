@@ -1,6 +1,6 @@
 ---
 title: Před Tvým probuzením
-contentType: prose
+contentType: poetry
 ---
 
 <section>
